@@ -32,6 +32,8 @@ Here, You can find every Open Source Programs in an Chronological order .
 <br>
 
 * Alibaba Summer of code
+* ACM MM Open Source Software Competition
+* Bountiful Open Source Summer- BOSS
 * (CNCF)  Community Bridge Mentorship Program
 * Cross Research Experience Program
 * Cross Winter of code
@@ -56,6 +58,8 @@ Here, You can find every Open Source Programs in an Chronological order .
 * Hyperledger Mentorship Program
 * Hacktober Fest by Digital Ocean
 * Hack Club SRM Summer of Code (HCSSoC)
+* Halite AI Bot Challenge
+* HackinCodes Contributor's Hack
 * Igalia Coding Experience Program 
 * IIIT-Kalyani Winter of code
 * Julia Season of Contribution
@@ -73,18 +77,21 @@ Here, You can find every Open Source Programs in an Chronological order .
 * NJACK Winter Of Code 
 * Open Source Track Explorer 
 * Outreachy 
-* Open Mainframe Project
+* Open Mainframe Project - Linux Foundation 
 * Open Summer of Code  (OSoC)  for students 
 * Open Mainframe (Mentorship Program)
 * Open Innovation Project
 * OSS Summer of Innovation 
 * OpenCode IIITA 
-* Open Summer of code  
+* Open Summer of code 
+* OSS World Challenge 
 * Processing Foundation Fellowships 
+* PClub Summer Of Code  
 * Redox Summer of code 
 * Radare Summer of Code
 * RARE Technologies Student Incubator Programme
 * RubyMe Mentorship Program 
+* RGSOC
 * Season of KDE
 * Summer of Haskell  
 * Snowplow
@@ -94,6 +101,7 @@ Here, You can find every Open Source Programs in an Chronological order .
 * Sanscript Autumn of Open Source
 * Script Fellowship Program  
 * Tencent Rhino-bird Open-source Training Program
+* The X.Org Endless Vacation of Code (EVoC)
 * Vectorised IO   
 * Winter of code  
 * Witnet Summer of Code Program 
