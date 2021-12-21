@@ -21,13 +21,14 @@ Here, You can find every Open Source Programs in an Chronological order .
  
  </div>
   
-* [All the OS Programs:](#All-the-OS-Programs:)
+* [All the OS Programs](#All-the-OS-Programs)
 
 <br>
 
 <br>
 
-## All the OS Programs:
+## All the OS Programs
+
 <br>
 
 * Alibaba Summer of code
