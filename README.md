@@ -11,6 +11,8 @@ Here, You can find every Open Source Programs in an Chronological order .
  
 <br>
 
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
 #### Table of content:
 * [Schedule of all the OS Programs or Internships registration deadlines](#Schedule-of-all-the-OS-Programs-or-Internships-registration-deadlines)
 <div align="center">
@@ -27,58 +29,62 @@ Here, You can find every Open Source Programs in an Chronological order .
 
 <br>
 
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
 ## Schedule of all the OS Programs or Internships registration deadlines
 <br>
 
-#Jan
+## Jan
 
 <br>
 
-#Feb
+## Feb
 
 <br>
 
-#Mar
+## Mar
 
 <br>
 
-#Apr
+## Apr
 
 <br>
 
-#May
+## May
 
 <br>
 
-#Jun
+## Jun
 
 <br>
 
-#Jul
+## Jul
 
 <br>
 
-#Aug
+## Aug
 
 <br>
 
-#Sep
+## Sep
 
 <br>
 
-#Oct
+## Oct
 
 <br>
 
-#Nov
+## Nov
 
 <br>
 
-#Dec
+## Dec
 
 <br>
 
 <br>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 ## All the OS Programs
 
