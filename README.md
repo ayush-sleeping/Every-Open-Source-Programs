@@ -70,9 +70,12 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 * Driven Data (competitions)
 * Delta Winter of Code (DWoC)
 * DevScript Winter of code
+* DataONE Summer Internship Programme
+* (DAWOC) DA-IICT Winter of Code
 <br>
 
 * Educational Externship Track
+* ERPNext Summer of Code
 <br>
 
 * Foss Asia Codeheat
@@ -89,6 +92,7 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 * GNOME Internship Program
 * GirlScript Summer of code  (GSSoC)
 * Girlscript winter of code (documentation)
+* Google Code-in (GCI)
 <br>
 
 * Hyperledger Mentorship Program
@@ -100,6 +104,7 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 
 * Igalia Coding Experience Program 
 * IIIT-Kalyani Winter of code
+* ICFOSS Fellowship Programme
 <br>
 
 * Julia Season of Contribution
@@ -113,13 +118,14 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 
 * Linux Foundation  (LFN)  Mentorship Program 
 * Linux Kernel Mentorship Program
-* LFX Mentorship
 <br>
 
 * MLH Fellowship  ( Pre-program and Open source)
 * Mircosoft:- Reiforcement Learning Open Source Fest
 * Millennium Fellowship
 * Microsoft Learn Student Ambassador Program
+* Mozilla Winter of Security
+* MDG Winter of Code
 <br>
 
 * NJACK Winter Of Code 
@@ -135,10 +141,15 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 * OpenCode IIITA 
 * Open Summer of code 
 * OSS World Challenge 
+* OWASP SOC
 <br>
 
 * Processing Foundation Fellowships 
 * PClub Summer Of Code 
+* 
+<br>
+
+* Quantopian Open
 <br>
  
 * Redox Summer of code 
@@ -155,11 +166,15 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 * Script Winter of code  (SWoC)
 * Semester Long Projects (SLoP by DA-IICT)
 * Sanscript Autumn of Open Source
-* Script Fellowship Program  
+* Script Fellowship Program 
+* SOCIS
+* Segment Open Fellowship
 <br>
 
 * Tencent Rhino-bird Open-source Training Program
 * The X.Org Endless Vacation of Code (EVoC)
+* TOR Summer of Privacy
+* Tweag I/O Summer Internship
 <br>
 
 * Vectorised IO   
