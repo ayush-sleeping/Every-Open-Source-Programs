@@ -56,6 +56,7 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 | TOR Summer of Privacy                      |   |   | 17 Apr             | end of Aug |   |   |
 | Cross Research Experience Program          |   |   | mid Apr             | before May 10 |   |   |
 | Open Mainframe Project -Linux Foundation   |   |   | mid Apr             | mid May |   |   |
+| Linux Kernel Mentorship Program         |   |   | mid Apr             | mid-May |   |   |
 | **MAY** | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | MLH Fellowship (Pre-program and Open source) |   |   | Before the deadline  | before 10 May |   |   |
 | OSS Summer of Innovation                   |   |   | 1 May              | 5 May |   |   |
@@ -68,6 +69,7 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 | PClub Summer Of Code |   |   | Early Jun           | late Jun |   |   |
 | **JUL** | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | Open Mainframe Project - Linux Foundation  |   |   | mid Jul              | mid Aug |   |   |
+| Linux Kernel Mentorship Program  |   |   | mid Jul              | mid Aug |   |   |
 | Witnet Summer of Code Program [WSoC]       |   |   |           | before 15 Jul |   |   |
 | Mozilla Winter of Security                 |   |   | 29 Jul              | 15 Sep |   |   |
 | **AUG** | --------  | -------- | ---------------- | -------- | -----  | --------  |
@@ -95,7 +97,44 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 | Season of KDE                              |   |   | 15 Dec              | 15 Jan |   |   |
 | JGEC Winter of code                        |   |   | 25 Dec              | 15 Jan |   |   |
 | **Others** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Julia Season of Contribution               |   |   | It takes part in -  | GSOC & GSOD |   |   |
+| Julia Season of Contribution               |   |   | It takes part in - GSOC & GSOD |  |   |   |
+| (CNCF)  Community Bridge Mentorship Program               |   |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
+| Foss Asia Intership Program               |   |   | Whole Year |  |   |   |
+| Free Software Foundation (FSF) Intership Program               |   |   | winter: December 8 summer: May 10 Fall: September 2. spring: November 29 |  |   |   |
+| John Hunter Matplotlib Summer Fellowship              |   |   | Summer - 3 monthes |  |   |   |
+| Kubernetes Shadows Program              |   |   | Shadows are selected via the Release Team Shadow Application, which usually opens up around the end of a release/beginning of the next release |  |   |   |
+| Millennium Fellowship               |   |   | Applications for this is open for whole year except Aug to Nov |  |   |   |
+| Microsoft Learn Student Ambassador Program               |   |   | Application form is open throughout the year |  |   |   |
+| OpenCode IIITA               |   |   | starting in October for student |  |   |   |
+| OSS World Challenge               |   |   | The challenge opens every May then close by September |  |   |   |
+| Redox Summer of code               |   |   | In Summer |  |   |   |
+| Radare Summer of Code               |   |   | RSoC Project take part in GSOC |  |   |   |
+| RARE Technologies Student Incubator Programme               |   |   | Poject take part in GSOC & It took place in Summer |  |   |   |
+| Summer of Haskell               |   |   | SOH projects take part in GSOC |  |   |   |
+| The X.Org Endless Vacation of Code (EVoC)               |   |   | EVoC mentorship can be initiated at any time during the calendar year |  |   |   |
+| 24 Pull Requests               |   |   | Send 24 pull requests between December 1st and December 24th |  |   |   |
+| Vectorised IO               |   |   | Not found |  |   |   |
+| Tweag I/O Summer Internship               |   |   | Not found |  |   |   |
+| Segment Open Fellowship               |   |   | Not found |  |   |   |
+| SOCIS                |   |   | Not found |  |   |   |
+| Sanscript Autumn of Open Source               |   |   | Not found |  |   |   |
+| Snowplow               |   |   | Not found |  |   |   |
+| RGSOC               |   |   | Not found |  |   |   |
+| Quantopian Open               |   |   | Not found |  |   |   |
+| OWASP SOC               |   |   | Not found |  |   |   |
+| Open Innovation Project               |   |   | Not found |  |   |   |
+| Open Source Track Explorer               |   |   | Not found |  |   |   |
+| MDG Winter of Code               |   |   | Not found |  |   |   |
+| ICFOSS Fellowship Programme               |   |   | Not found |  |   |   |
+| Halite AI Bot Challenge               |   |   | Not found |  |   |   |
+| HackinCodes Contributor's Hack               |   |   | Not found |  |   |   |
+| Free Software Observation               |   |   | Not found |  |   |   |
+| Educational Externship Track               |   |   | Not found |  |   |   |
+| (DAWOC) DA-IICT Winter of Code               |   |   | Not found |  |   |   |
+| Data Driven Competitions               |   |   | Not found |  |   |   |
+| Data Observation National of Earth               |   |   | Not found |  |   |   |
+| Cats winter of code               |   |   | Not found |  |   |   |
+
 
 
 
