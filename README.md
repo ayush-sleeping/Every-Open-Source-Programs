@@ -6,22 +6,18 @@
 
 <div align="center">
  
-Here, You can find every Open Source Programs | Internships | Competitions in an systematic way .
+Here, You can find every Open Source Programs | Internships | Competitions in an systematic way. &nbsp; Aim of this repo. is , You never miss the deadline.
  
-Aim of this repo. is , You never miss the deadline.
+**All are categorized according to their "Registration date begin".**
 </div>
  
-<br>
-
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 #### Table of content:
 
 * [Schedule of all the OS Programs](#Schedule-of-all-the-OS-Programs)
-* [All the OS Programs](#All-the-OS-Programs)
+* [All the OS Programs list](#All-the-OS-Programs-list)
 <div align="center"> </div>
-
-<br>
 
 <br>
 
@@ -32,12 +28,21 @@ Aim of this repo. is , You never miss the deadline.
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:--|:--|:--|:--|:--|:--|:--|
-| Cross Winter of code |   |   | 25 Jan | 10 Feb |   |   |
-| FOSSEE Semester-long Internship |   |   | 08 Jan | 05 Feb |   |   |
-| Hyperledger Mentorship Program |   |   | Jan | Mar |   |   |
-| Linux Kernel Mentorship Program |   |   | mid-Jan | mid-Feb |   |   |
 | MLH Fellowship (Pre-program & Open source) |   |   | Before the deadline | Jan-4th |   |   |
+| FOSSEE Semester-long Internship |   |   | 08 Jan | 05 Feb |   |   |
+| Linux Kernel Mentorship Program |   |   | mid-Jan | mid-Feb |   |   |
 | Open Mainframe Project (Linux Foundation) |   |   | mid-Jan | mid-Feb |   |   |
+| Cross Winter of code |   |   | 25 Jan | 10 Feb |   |   |
+| Hyperledger Mentorship Program |   |   | Jan | Mar |   |   |
+| ---------------- | --------  | -------- | ---------------- | -------- | -----  | --------  |
+| Mircosoft:-Reiforcement Learning Open Source Fest |   |   | 1 Feb | 1 Mar |   |   |
+| Outreachy |   |   | early Feb | late Feb |   |   |
+| Google Summer of Documentation  (Docs) |   |   | 9 Feb | 26 Mar |   |   |
+| DataONE Summer Internship Programme |   |   | 22 Feb | 25 Mar |   |   |
+| GirlScript Summer of code  (GSSoC) |   |   | Feb | Mar |   |   |
+| ---------------- | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+
 
 
 <br>
@@ -46,7 +51,7 @@ Aim of this repo. is , You never miss the deadline.
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
-## All the OS Programs
+## All the OS Programs list
 
 * Alibaba Summer of code
 * ACM MM Open Source Software Competition
