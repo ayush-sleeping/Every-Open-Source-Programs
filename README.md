@@ -7,6 +7,8 @@
 <div align="center">
  
 Here, You can find every Open Source Programs | Internships | Competitions in an systematic way .
+ 
+Aim of this repo. is , You never miss the deadline.
 </div>
  
 <br>
@@ -30,7 +32,12 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:--|:--|:--|:--|:--|:--|:--|
-|   |   |   |   |   |   |   |
+| Cross Winter of code |   |   | 25 Jan | 10 Feb |   |   |
+| FOSSEE Semester-long Internship |   |   | 08 Jan | 05 Feb |   |   |
+| Hyperledger Mentorship Program |   |   | Jan | Mar |   |   |
+| Linux Kernel Mentorship Program |   |   | mid-Jan | mid-Feb |   |   |
+| MLH Fellowship (Pre-program & Open source) |   |   | Before the deadline | Jan-4th |   |   |
+| Open Mainframe Project (Linux Foundation) |   |   | mid-Jan | mid-Feb |   |   |
 
 
 <br>
