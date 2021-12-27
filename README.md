@@ -261,6 +261,8 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 ## All the OS Programs list
+![OS](https://img.shields.io/badge/-Open%20Source%20Programs%20%7C%20Internships%20%7C%20Fellowships%20%7C%20Competitions-blueviolet)
+<br>
 
 * Alibaba Summer of code
 * ACM MM Open Source Software Competition
