@@ -17,7 +17,6 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <p align="center">
-  <br />
    <a href="https://opensource.guide/"><strong>Open Source Guides »</strong></a>
     <br />
     <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs/issues">Report Bug</a>
@@ -25,18 +24,19 @@
     <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs/issues">Request Feature</a>
   </p>
   
-  
+ <!-- ---------------------------------------------------------------------------------------------------------------------- --> 
 
 <div align="center">
  
-**Aim of this repo. is , &nbsp; &nbsp; You never miss the deadline.** <br>
+**Aim of this repo. is , &nbsp;  You never miss the deadline.** <br>
 **All are categorized according to their "Registration Date Begin".**
 
  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Programs-blueviolet?style=flat-square" /></a>      <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Internships-blueviolet?style=flat-square" /></a> 
  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Competitions-blueviolet?style=flat-square" /></a>  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Fellowship-blueviolet?style=flat-square" /></a>  
  
 </div>
- 
+
+ #
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 #### Table of content:
