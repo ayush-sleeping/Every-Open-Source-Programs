@@ -84,7 +84,7 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 |  43.       | Semester Long Projects (SLoP by DA-IICT)   |   |   | 15 Sep              | late Sept |   | Certificates & swag rewards  |
 |  44.       | GNOME Internship Program                   | Yes  |   | 1 Sep               | 1 Oct |   |   |
 |  45.       | Hacktober Fest by Digital Ocean            |   |   | Sep                 | Oct |   | Swag Rewards  |
-|  46.       | Google Code-in (GCI)                       |   |   |          | before Oct        |   |   |
+|  46.       | Google Code-in (GCI)                       |   |   |          | before Oct        |   | Prizes for winners  |
 |            | **OCT** | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  47.       | IIIT-Kalyani Winter of code 2.0            |   |   | 1 Oct               | 7 Nov |   | Certificates & swag rewards  |
 |  48.       | Delta Winter of Code (DWoC)                |   |   | 19 Oct              | 22 Nov |   | Certificates & swag rewards  |
@@ -107,7 +107,7 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 |  62.       | Millennium Fellowship                      |   |   | Applications for this is open for whole year except Aug to Nov |  |   |   |
 |  63.       | Microsoft Learn Student Ambassador Program               |   |   | Application form is open throughout the year |  |   |   |
 |  64.       | OpenCode IIITA                             |   |   | starting in October for student |  |   | Certificates & swag rewards  |
-|  65.       | OSS World Challenge                        |   |   | The challenge opens every May then close by September |  |   |   |
+|  65.       | OSS World Challenge                        |   |   | The challenge opens every May then close by September |  |   | Prizes for winners  |
 |  66.       | Redox Summer of code                       | Yes  |   | In Summer |  |   |   |
 |  67.       | Radare Summer of Code                      | Yes  |   | RSoC Project take part in GSOC |  |   |   |
 |  68.       | RARE Technologies Student Incubator Programme               | Yes  |   | Poject take part in GSOC & It took place in Summer |  |   |   |
@@ -122,7 +122,7 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 |  77.       | Snowplow                                   | Yes  |   | Not found |  |   |   |
 |  78.       | RGSOC                                      |   |   | Not found |  |   |   |
 |  79.       | RubyMe Mentorship Program                  | Yes  |   | Not found |  |   |   |
-|  80.       | Quantopian Open                            |   |   | Not found |  |   |   |
+|  80.       | Quantopian Open                            |   |   | Not found |  |   | Cash prizes for winners   |
 |  81.       | OWASP SOC                                  |   |   | Not found |  |   |   |
 |  82.       | Open Innovation Project                    |   |   | Not found |  |   |   |
 |  83.       | Open Source Track Explorer                 |   |   | Not found |  |   |   |
