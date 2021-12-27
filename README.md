@@ -3,12 +3,36 @@
 <h1 align="center">Every Open Source Programs</h1>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
-
 <div align="center">
  
-Here, You can find every Open Source Programs | Internships | Competitions in an systematic way. &nbsp; Aim of this repo. is , You never miss the deadline.
+![GitHub stars](https://img.shields.io/github/stars/ayush-sleeping/Every-Open-Source-Programs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ayush-sleeping/Every-Open-Source-Programs?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ayush-sleeping/Every-Open-Source-Programs?style=social)
+![Repo. Size](https://img.shields.io/github/repo-size/ayush-sleeping/Every-Open-Source-Programs?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/ayush-sleeping/Every-Open-Source-Programs?color=red&style=social)
+![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=social)
+
+</div>
+
+
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+<p align="center">
+    <strong> Here, You can find every Open Source Programs | Internships | Competitions in an systematic way. &nbsp; Aim of this repo. is , You never miss the deadline. </strong>
+    <br />
+  <br />
+   <a href="https://opensource.guide/"><strong>Open Source Guides »</strong></a>
+    <br />
+    <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs/issues">Request Feature</a>
+  </p>
+  
+  
+
+<div align="center">
+
+**All are categorized according to their "Registration Date Begin".**
  
-**All are categorized according to their "Registration date begin".**
 </div>
  
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -24,6 +48,7 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 ## Schedule of all the OS Programs
+![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 <br>
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
