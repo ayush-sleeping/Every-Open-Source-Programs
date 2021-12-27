@@ -47,6 +47,8 @@
 
 <br>
 
+<p align="right">(<a href="#Bottom">Bottom</a>)</p>
+
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 ## Schedule of all the OS Programs
@@ -54,8 +56,8 @@
 <br>
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
-|:----|:-----|:--------|:---------|:--------------                          |:-------------------|:-----|:-------|
-|    |**JAN**| -------| -------- | --------------------------------------- | ---------          | -----| -------|
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|    | ![January](https://img.shields.io/badge/-January-%23E12B38?style=for-the-badge) | -------| -------- | -------------------- | ---------          | -----| -------|
 | 1.         | MLH Fellowship (Pre-program & Open source) | Yes  |   | Before the deadline | Jan-4th   |   |   |
 | 2.         | Linux Kernel Mentorship Program            | Yes  |   | mid-Jan             | mid-Feb   |   |   |
 | 3.         | Hyperledger Mentorship Program             | Yes  |   | Jan                 | Mar       |   |   |
@@ -63,13 +65,27 @@
 | 5.         | FOSSEE Semester-long Internship            |   |   | 08 Jan              | 05 Feb    |   |   |
 | 6.         | Open Mainframe Project (Linux Foundation)  |   |   | mid-Jan             | mid-Feb   |   |   |
 | 7.         | Cross Winter of code                       |   |   | 25 Jan              | 10 Feb    |   | Certificates & swag rewards  |
-|  | **FEB** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+| No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![February](https://img.shields.io/badge/-February-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  8.       | Google Summer of Documentation  (Docs)     | Yes  |   | 9 Feb               | 26 Mar |   |   |
 |  9.        | Mircosoft:-Reiforcement Learning Open Source Fest |   |   | 1 Feb | 1 Mar |   |   |
 |  10.        | Outreachy                                  |   |   | early Feb           | late Feb |   |   |
 |  11.       | DataONE Summer Internship Programme        |   |   | 22 Feb              | 25 Mar |   |   |
 |  12.       | GirlScript Summer of code  (GSSoC)         |   |   | Feb                 | Mar |   | Prizes, swag rewards and internship opportunities for winners  |
-|  | **MAR** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+| No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![March](https://img.shields.io/badge/-March-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  13.       | Google Summer of Code - (GSoC)             | Yes  |   | 9 Mar               | 13 Apr |   |   |
 |  14.       | Google Summer of Earth Engine (SoEE)       | Yes  |   | 15 Mar              | 15 Apr |   |   |
 |  15.       | Igalia Coding Experience Program           | Yes  |   | 1 Mar               | end of Apr |   |   |
@@ -82,8 +98,8 @@
 <br>
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
-|:----|:-----|:--------|:---------|:--------------                          |:-------------------|:-----|:-------|
-|  | **APR** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![April](https://img.shields.io/badge/-April-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  19.       | (LFN)  Linux Foundation  Mentorship Program | Yes  |   | 15 Apr             | 10 May |   |   |
 |  20.       | Linux Kernel Mentorship Program         |   |   | mid Apr             | mid-May |   |   |
 |  21.       | ERPNext Summer of Code                     |   |   | 3 Apr               | 14 Apr |   |   |
@@ -91,14 +107,28 @@
 |  23.       | TOR Summer of Privacy                      |   |   | 17 Apr             | end of Aug |   |   |
 |  24.       | Cross Research Experience Program          |   |   | mid Apr             | before May 10 |   |   |
 |  25.       | Open Mainframe Project -Linux Foundation   |   |   | mid Apr             | mid May |   |   |
-|  | **MAY** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+| No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![May](https://img.shields.io/badge/-May-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  26.       | Alibaba Summer of code                     | Yes  |   | 25 May              | 30 Jun |   |   |
 |  27.       | Tencent Rhino-bird Open-source Training Program | Yes  |   |           | before Jun |   |   |
 |  28.       | Summer of Open Souce Promotion Plan        | Yes  |   | 24 May          | 13 Jun |   |   |
 |  29.       | MLH Fellowship (Pre-program and Open source) |   |   | Before the deadline  | before 10 May |   |   |
 |  30.       | OSS Summer of Innovation                   |   |   | 1 May              | 5 May |   |   Prizes For Winners  |
 |  31.       | Hack Club SRM Summer of Code (HCSSoC)      |   |   | 18 May              | 23 Jun |   | Certificates & swag rewards  |
-|  | **JUN** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+| No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![June](https://img.shields.io/badge/-June-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  32.       | Open Summer of Code  (OSoC)  for students  | Yes  |   | Jun           | Jul |   |   |
 |  33.       | ACM MM Open Source Software Competition    |   |   | Early Jun           | 25 Jun |   | Prizes For Winners  |
 |  34.       | PClub Summer Of Code |   |   | Early Jun           | late Jun |   |   |
@@ -108,18 +138,32 @@
 <br>
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
-|:----|:-----|:--------|:---------|:--------------                          |:-------------------|:-----|:-------|
-|  | **JUL** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![July](https://img.shields.io/badge/-July-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  35.       | Open Mainframe Project - Linux Foundation  | Yes  |   | mid Jul              | mid Aug |   |   |
 |  36.       | Linux Kernel Mentorship Program  | Yes  |   | mid Jul              | mid Aug |   |   |
 |  37.       | Witnet Summer of Code Program [WSoC]       |   |   |           | before 15 Jul |   |   |
 |  38.       | Mozilla Winter of Security                 |   |   | 29 Jul              | 15 Sep |   |   |
-|  | **AUG** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+| No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![August](https://img.shields.io/badge/-August-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  39.       | Script Fellowship Program                  |   |   | 1 Aug           | Oct 30 |   |   |
 |  40.       | Girlscript winter of code (docs)           |   |   | Early Aug           | late Aug |   | Swag rewards, Certificate  |
 |  41.       | Bountiful Open Source Summer - BOSS        |   |   |                     | before 15 Aug |   | Prizes For Winners  |
 |  42.       | Outreachy                                  |   |   | mid Aug             | late Aug |   |   |
-|  | **SEP** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+| No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![September](https://img.shields.io/badge/-September-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  43.       | GNOME Internship Program                   | Yes  |   | 1 Sep               | 1 Oct |   |   |
 |  44.       | MLH Fellowship  (Pre-program and Open source) |   |   | Before the deadline    | before 13 Sept |   |   |
 |  45.       | Script Winter of code  (SWoC)              |   |   | 10 Sep              | 10 Nov |   | Prizes, swag rewards, Certificate  |
@@ -132,17 +176,31 @@
 <br>
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
-|:----|:-----|:--------|:---------|:--------------                          |:-------------------|:-----|:-------|
-|  | **OCT** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![October](https://img.shields.io/badge/-October-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  49.       | IIIT-Kalyani Winter of code 2.0            |   |   | 1 Oct               | 7 Nov |   | Certificates & swag rewards  |
 |  50.       | Delta Winter of Code (DWoC)                |   |   | 19 Oct              | 22 Nov |   | Certificates & swag rewards  |
 |  51.       | NJACK Winter Of Code                       |   |   | 22 Oct              | late Nov |   | Certificates & swag rewards  |
-|  | **NOV** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+| No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![November](https://img.shields.io/badge/-November-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  52.       | Winter of code by NSEC                     |   |   | 20 Nov              | 6 Dec |   | Certificates & swag rewards  |
 |  53.       | Kharagpur Open Source Society (KWoC)       |   |   | 26 Nov              | 6 Dec |   | Certificates & swag rewards  |
 |  54.       | DevScript Winter of code                   |   |   | 30 Nov              | 25 Dec |   | Certificates & swag rewards  |
 |  55.       | Foss Asia Codeheat                         |   |   | runs from Nov 10    | 11 May |   | Cash Prizes For Winners  |
-|  | **DEC** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+| No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|  | ![December](https://img.shields.io/badge/-December-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  56.       | Season of KDE                              |   |   | 15 Dec              | 15 Jan |   |   |
 |  57.       | JGEC Winter of code                        |   |   | 25 Dec              | 15 Jan |   | Certificates & swag rewards  |
 
@@ -151,8 +209,8 @@
 <br>
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
-|:----|:-----|:--------|:---------|:--------------                          |:-------------------|:-----|:-------|
-|            | **Others** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+|     | ![Others](https://img.shields.io/badge/-Others-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  58.       | Julia Season of Contribution               | Yes  |   | It takes part in - GSOC & GSOD |  |   |   |
 |  59.       | Foss Asia Intership Program               | Yes  |   | Whole Year |  |   |   |
 |  60.       | John Hunter Matplotlib Summer Fellowship              | Yes  |   | Summer - 3 monthes |  |   |   |
@@ -365,3 +423,5 @@
 ### Show some ❤️ by starring this awesome  repository!
 
 </div>
+
+<div id="Bottom"></div>
