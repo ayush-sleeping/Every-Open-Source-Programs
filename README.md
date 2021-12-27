@@ -26,116 +26,116 @@ Here, You can find every Open Source Programs | Internships | Competitions in an
 ## Schedule of all the OS Programs
 <br>
 
-| Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
-|:--|:--|:--|:--|:--|:--|:--|
-| **JAN** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| MLH Fellowship (Pre-program & Open source) | Yes  |   | Before the deadline | Jan-4th   |   |   |
-| FOSSEE Semester-long Internship            |   |   | 08 Jan              | 05 Feb    |   |   |
-| Linux Kernel Mentorship Program            | Yes  |   | mid-Jan             | mid-Feb   |   |   |
-| Open Mainframe Project (Linux Foundation)  |   |   | mid-Jan             | mid-Feb   |   |   |
-| Cross Winter of code                       |   |   | 25 Jan              | 10 Feb    |   |   |
-| Hyperledger Mentorship Program             | Yes  |   | Jan                 | Mar       |   |   |
-| Outreachy                                  | Yes  |   | late Jan            | early Feb |   |   |
-| **FEB** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Mircosoft:-Reiforcement Learning Open Source Fest |   |   | 1 Feb | 1 Mar |   |   |
-| Outreachy                                  |   |   | early Feb           | late Feb |   |   |
-| Google Summer of Documentation  (Docs)     | Yes  |   | 9 Feb               | 26 Mar |   |   |
-| DataONE Summer Internship Programme        |   |   | 22 Feb              | 25 Mar |   |   |
-| GirlScript Summer of code  (GSSoC)         |   |   | Feb                 | Mar |   |   |
-| **MAR** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Igalia Coding Experience Program           | Yes  |   | 1 Mar               | end of Apr |   |   |
-| RGSOC                                      | Yes  |   | 02 Mar  | 30 Mar |   |   |
-| Google Summer of Code - (GSoC)             |   |   | 9 Mar               | 13 Apr |   |   |
-| Google Summer of Earth Engine (SoEE)       | Yes  |   | 15 Mar              | 15 Apr |   |   |
-| X org Foundation                           |   |   | 9 Mar  | 13 Apr |   |   |
-| Processing Foundation Fellowships          | Yes  |   | Mar  | 2 Apr |   |   |
-| **APR** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| ERPNext Summer of Code                     |   |   | 3 Apr               | 14 Apr |   |   |
-| (LFN)  Linux Foundation  Mentorship Program | Yes  |   | 15 Apr             | 10 May |   |   |
-| FOSSEE Summer Fellowship                   |   |   | 17 Apr              | 05 May |   |   |
-| TOR Summer of Privacy                      |   |   | 17 Apr             | end of Aug |   |   |
-| Cross Research Experience Program          |   |   | mid Apr             | before May 10 |   |   |
-| Open Mainframe Project -Linux Foundation   |   |   | mid Apr             | mid May |   |   |
-| Linux Kernel Mentorship Program         |   |   | mid Apr             | mid-May |   |   |
-| **MAY** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| MLH Fellowship (Pre-program and Open source) |   |   | Before the deadline  | before 10 May |   |   |
-| OSS Summer of Innovation                   |   |   | 1 May              | 5 May |   |   |
-| Alibaba Summer of code                     | Yes  |   | 25 May              | 30 Jun |   |   |
-| Hack Club SRM Summer of Code (HCSSoC)      |   |   | 18 May              | 23 Jun |   |   |
-| Tencent Rhino-bird Open-source Training Program | Yes  |   |           | before Jun |   |   |
-| Summer of Open Souce Promotion Plan | Yes  |   | 24 May          | 13 Jun |   |   |
-| **JUN** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| ACM MM Open Source Software Competition    |   |   | Early Jun           | 25 Jun |   |   |
-| Open Summer of Code  (OSoC)  for students  | Yes  |   | Jun           | Jul |   |   |
-| PClub Summer Of Code |   |   | Early Jun           | late Jun |   |   |
-| **JUL** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Open Mainframe Project - Linux Foundation  | Yes  |   | mid Jul              | mid Aug |   |   |
-| Linux Kernel Mentorship Program  | Yes  |   | mid Jul              | mid Aug |   |   |
-| Witnet Summer of Code Program [WSoC]       |   |   |           | before 15 Jul |   |   |
-| Mozilla Winter of Security                 |   |   | 29 Jul              | 15 Sep |   |   |
-| **AUG** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Script Fellowship Program                  |   |   | 1 Aug           | Oct 30 |   |   |
-| Girlscript winter of code (docs)           |   |   | Early Aug           | late Aug |   |   |
-| Bountiful Open Source Summer - BOSS        |   |   |                     | before 15 Aug |   | Prizes For Winners  |
-| Outreachy                                  |   |   | mid Aug             | late Aug |   |   |
-| **SEP** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| MLH Fellowship  (Pre-program and Open source) |   |   | Before the deadline    | before 13 Sept |   |   |
-| Script Winter of code  (SWoC)              |   |   | 10 Sep              | 10 Nov |   |   |
-| Semester Long Projects (SLoP by DA-IICT)   |   |   | 15 Sep              | late Sept |   |   |
-| GNOME Internship Program                   | Yes  |   | 1 Sep               | 1 Oct |   |   |
-| Hacktober Fest by Digital Ocean            |   |   | Sep                 | Oct |   |   |
-| Google Code-in (GCI)                       |   |   |          | before Oct        |   |   |
-| **OCT** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| IIIT-Kalyani Winter of code 2.0            |   |   | 1 Oct               | 7 Nov |   |   |
-| Delta Winter of Code (DWoC)                |   |   | 19 Oct              | 22 Nov |   |   |
-| NJACK Winter Of Code                       |   |   | 22 Oct              | late Nov |   |   |
-| **NOV** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Winter of code by NSEC                     |   |   | 20 Nov              | 6 Dec |   |   |
-| Kharagpur Open Source Society (KWoC)       |   |   | 26 Nov              | 6 Dec |   |   |
-| DevScript Winter of code                   |   |   | 30 Nov              | 25 Dec |   |   |
-| Foss Asia Codeheat                         |   |   | runs from Nov 10    | 11 May |   |   |
-| **DEC** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Season of KDE                              |   |   | 15 Dec              | 15 Jan |   |   |
-| JGEC Winter of code                        |   |   | 25 Dec              | 15 Jan |   |   |
-| **Others** | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Julia Season of Contribution               | Yes  |   | It takes part in - GSOC & GSOD |  |   |   |
-| (CNCF)  Community Bridge Mentorship Program               | Yes  |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
-| Foss Asia Intership Program               | Yes  |   | Whole Year |  |   |   |
-| Free Software Foundation (FSF) Intership Program               |   |   | winter: December 8 summer: May 10 Fall: September 2. spring: November 29 |  |   |   |
-| John Hunter Matplotlib Summer Fellowship              | Yes  |   | Summer - 3 monthes |  |   |   |
-| Kubernetes Shadows Program              |   |   | Shadows are selected via the Release Team Shadow Application, which usually opens up around the end of a release/beginning of the next release |  |   |   |
-| Millennium Fellowship               |   |   | Applications for this is open for whole year except Aug to Nov |  |   |   |
-| Microsoft Learn Student Ambassador Program               |   |   | Application form is open throughout the year |  |   |   |
-| OpenCode IIITA               |   |   | starting in October for student |  |   |   |
-| OSS World Challenge               |   |   | The challenge opens every May then close by September |  |   |   |
-| Redox Summer of code               | Yes  |   | In Summer |  |   |   |
-| Radare Summer of Code               | Yes  |   | RSoC Project take part in GSOC |  |   |   |
-| RARE Technologies Student Incubator Programme               | Yes  |   | Poject take part in GSOC & It took place in Summer |  |   |   |
-| Summer of Haskell               | Yes  |   | SOH projects take part in GSOC |  |   |   |
-| The X.Org Endless Vacation of Code (EVoC)               | Yes  |   | EVoC mentorship can be initiated at any time during the calendar year |  |   |   |
-| 24 Pull Requests               |   |   | Send 24 pull requests between December 1st and December 24th |  |   |   |
-| Vectorised IO               | Yes  |   | Not found |  |   |   |
-| Tweag I/O Summer Internship               |   |   | Not found |  |   |   |
-| Segment Open Fellowship               |   |   | Not found |  |   |   |
-| SOCIS                |   |   | Not found |  |   |   |
-| Sanscript Autumn of Open Source               |   |   | Not found |  |   |   |
-| Snowplow               | Yes  |   | Not found |  |   |   |
-| RGSOC               |   |   | Not found |  |   |   |
-| RubyMe Mentorship Program               | Yes  |   | Not found |  |   |   |
-| Quantopian Open               |   |   | Not found |  |   |   |
-| OWASP SOC               |   |   | Not found |  |   |   |
-| Open Innovation Project               |   |   | Not found |  |   |   |
-| Open Source Track Explorer               |   |   | Not found |  |   |   |
-| MDG Winter of Code               |   |   | Not found |  |   |   |
-| ICFOSS Fellowship Programme               |   |   | Not found |  |   |   |
-| Halite AI Bot Challenge               |   |   | Not found |  |   |   |
-| HackinCodes Contributor's Hack               |   |   | Not found |  |   |   |
-| Free Software Observation               |   |   | Not found |  |   |   |
-| Educational Externship Track               |   |   | Not found |  |   |   |
-| (DAWOC) DA-IICT Winter of Code               |   |   | Not found |  |   |   |
-| Data Driven Competitions               |   |   | Not found |  |   |   |
-| Data Observation National of Earth               |   |   | Not found |  |   |   |
-| Cats winter of code               |   |   | Not found |  |   |   |
+| Serial No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:-----      |:-----|:--------|:---------|:--------------                          |:-------------------|:-----|:-------|
+|            |**JAN**| -------| -------- | --------------------------------------- | ---------          | -----| -------|
+| 1.         | MLH Fellowship (Pre-program & Open source) | Yes  |   | Before the deadline | Jan-4th   |   |   |
+| 2.         | FOSSEE Semester-long Internship            |   |   | 08 Jan              | 05 Feb    |   |   |
+| 3.         | Linux Kernel Mentorship Program            | Yes  |   | mid-Jan             | mid-Feb   |   |   |
+| 4.         | Open Mainframe Project (Linux Foundation)  |   |   | mid-Jan             | mid-Feb   |   |   |
+| 5.         | Cross Winter of code                       |   |   | 25 Jan              | 10 Feb    |   |   |
+| 6.         | Hyperledger Mentorship Program             | Yes  |   | Jan                 | Mar       |   |   |
+| 7.         | Outreachy                                  | Yes  |   | late Jan            | early Feb |   |   |
+|            | **FEB** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  8.        | Mircosoft:-Reiforcement Learning Open Source Fest |   |   | 1 Feb | 1 Mar |   |   |
+|  9.        | Outreachy                                  |   |   | early Feb           | late Feb |   |   |
+|  10.       | Google Summer of Documentation  (Docs)     | Yes  |   | 9 Feb               | 26 Mar |   |   |
+|  11.       | DataONE Summer Internship Programme        |   |   | 22 Feb              | 25 Mar |   |   |
+|  12.       | GirlScript Summer of code  (GSSoC)         |   |   | Feb                 | Mar |   | Prizes, swag rewards and internship opportunities for winners  |
+|            | **MAR** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  13.       | Igalia Coding Experience Program           | Yes  |   | 1 Mar               | end of Apr |   |   |
+|  14.       | RGSOC                                      | Yes  |   | 02 Mar  | 30 Mar |   |   |
+|  15.       | Google Summer of Code - (GSoC)             |   |   | 9 Mar               | 13 Apr |   |   |
+|  16.       | Google Summer of Earth Engine (SoEE)       | Yes  |   | 15 Mar              | 15 Apr |   |   |
+|  17.       | X org Foundation                           |   |   | 9 Mar  | 13 Apr |   |   |
+|  18.       | Processing Foundation Fellowships          | Yes  |   | Mar  | 2 Apr |   |   |
+|            | **APR** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  19.       | ERPNext Summer of Code                     |   |   | 3 Apr               | 14 Apr |   |   |
+|  20.       | (LFN)  Linux Foundation  Mentorship Program | Yes  |   | 15 Apr             | 10 May |   |   |
+|  21.       | FOSSEE Summer Fellowship                   |   |   | 17 Apr              | 05 May |   |   |
+|  22.       | TOR Summer of Privacy                      |   |   | 17 Apr             | end of Aug |   |   |
+|  23.       | Cross Research Experience Program          |   |   | mid Apr             | before May 10 |   |   |
+|  24.       | Open Mainframe Project -Linux Foundation   |   |   | mid Apr             | mid May |   |   |
+|  25.       | Linux Kernel Mentorship Program         |   |   | mid Apr             | mid-May |   |   |
+|            | **MAY** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  26.       | MLH Fellowship (Pre-program and Open source) |   |   | Before the deadline  | before 10 May |   |   |
+|  27.       | OSS Summer of Innovation                   |   |   | 1 May              | 5 May |   |   Prizes For Winners  |
+|  28.       | Alibaba Summer of code                     | Yes  |   | 25 May              | 30 Jun |   |   |
+|  29.       | Hack Club SRM Summer of Code (HCSSoC)      |   |   | 18 May              | 23 Jun |   |   |
+|  28.       | Tencent Rhino-bird Open-source Training Program | Yes  |   |           | before Jun |   |   |
+|  29.       | Summer of Open Souce Promotion Plan | Yes  |   | 24 May          | 13 Jun |   |   |
+|            | **JUN** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  30.       | ACM MM Open Source Software Competition    |   |   | Early Jun           | 25 Jun |   | Prizes For Winners  |
+|  31.       | Open Summer of Code  (OSoC)  for students  | Yes  |   | Jun           | Jul |   |   |
+|  32.       | PClub Summer Of Code |   |   | Early Jun           | late Jun |   |   |
+|            | **JUL** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  33.       | Open Mainframe Project - Linux Foundation  | Yes  |   | mid Jul              | mid Aug |   |   |
+|  34.       | Linux Kernel Mentorship Program  | Yes  |   | mid Jul              | mid Aug |   |   |
+|  35.       | Witnet Summer of Code Program [WSoC]       |   |   |           | before 15 Jul |   |   |
+|  36.       | Mozilla Winter of Security                 |   |   | 29 Jul              | 15 Sep |   |   |
+|            | **AUG** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  37.       | Script Fellowship Program                  |   |   | 1 Aug           | Oct 30 |   |   |
+|  38.       | Girlscript winter of code (docs)           |   |   | Early Aug           | late Aug |   | Swag rewards, Certificate  |
+|  39.       | Bountiful Open Source Summer - BOSS        |   |   |                     | before 15 Aug |   | Prizes For Winners  |
+|  40.       | Outreachy                                  |   |   | mid Aug             | late Aug |   |   |
+|            | **SEP** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  41.       | MLH Fellowship  (Pre-program and Open source) |   |   | Before the deadline    | before 13 Sept |   |   |
+|  42.       | Script Winter of code  (SWoC)              |   |   | 10 Sep              | 10 Nov |   | Prizes, swag rewards, Certificate  |
+|  43.       | Semester Long Projects (SLoP by DA-IICT)   |   |   | 15 Sep              | late Sept |   |   |
+|  44.       | GNOME Internship Program                   | Yes  |   | 1 Sep               | 1 Oct |   |   |
+|  45.       | Hacktober Fest by Digital Ocean            |   |   | Sep                 | Oct |   | Swag Rewards  |
+|  46.       | Google Code-in (GCI)                       |   |   |          | before Oct        |   |   |
+|            | **OCT** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  47.       | IIIT-Kalyani Winter of code 2.0            |   |   | 1 Oct               | 7 Nov |   |   |
+|  48.       | Delta Winter of Code (DWoC)                |   |   | 19 Oct              | 22 Nov |   |   |
+|  49.       | NJACK Winter Of Code                       |   |   | 22 Oct              | late Nov |   |   |
+|            | **NOV** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  50.       | Winter of code by NSEC                     |   |   | 20 Nov              | 6 Dec |   |   |
+|  51.       | Kharagpur Open Source Society (KWoC)       |   |   | 26 Nov              | 6 Dec |   |   |
+|  52.       | DevScript Winter of code                   |   |   | 30 Nov              | 25 Dec |   |   |
+|  53.       | Foss Asia Codeheat                         |   |   | runs from Nov 10    | 11 May |   | Cash Prizes For Winners  |
+|            | **DEC** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  54.       | Season of KDE                              |   |   | 15 Dec              | 15 Jan |   |   |
+|  55.       | JGEC Winter of code                        |   |   | 25 Dec              | 15 Jan |   |   |
+|            | **Others** | --------  | -------- | ---------------- | -------- | -----  | --------  |
+|  56.       | Julia Season of Contribution               | Yes  |   | It takes part in - GSOC & GSOD |  |   |   |
+|  57.       | (CNCF)  Community Bridge Mentorship Program               | Yes  |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
+|  58.       | Foss Asia Intership Program               | Yes  |   | Whole Year |  |   |   |
+|  59.       | Free Software Foundation (FSF) Intership Program               |   |   | winter: December 8 summer: May 10 Fall: September 2. spring: November 29 |  |   |   |
+|  60.       | John Hunter Matplotlib Summer Fellowship              | Yes  |   | Summer - 3 monthes |  |   |   |
+|  61.       | Kubernetes Shadows Program                 |   |   | Shadows are selected via the Release Team Shadow Application, which usually opens up around the end of a release/beginning of the next release |  |   |   |
+|  62.       | Millennium Fellowship                      |   |   | Applications for this is open for whole year except Aug to Nov |  |   |   |
+|  63.       | Microsoft Learn Student Ambassador Program               |   |   | Application form is open throughout the year |  |   |   |
+|  64.       | OpenCode IIITA                             |   |   | starting in October for student |  |   |   |
+|  65.       | OSS World Challenge                        |   |   | The challenge opens every May then close by September |  |   |   |
+|  66.       | Redox Summer of code                       | Yes  |   | In Summer |  |   |   |
+|  67.       | Radare Summer of Code                      | Yes  |   | RSoC Project take part in GSOC |  |   |   |
+|  68.       | RARE Technologies Student Incubator Programme               | Yes  |   | Poject take part in GSOC & It took place in Summer |  |   |   |
+|  69.       | Summer of Haskell                          | Yes  |   | SOH projects take part in GSOC |  |   |   |
+|  70.       | The X.Org Endless Vacation of Code (EVoC)               | Yes  |   | EVoC mentorship can be initiated at any time during the calendar year |  |   |   |
+|  71.       | 24 Pull Requests                           |   |   | Send 24 pull requests between December 1st and December 24th |  |   |   |
+|  72.       | Vectorised IO                              | Yes  |   | Not found |  |   |   |
+|  73.       | Tweag I/O Summer Internship                |   |   | Not found |  |   |   |
+|  74.       | Segment Open Fellowship                    |   |   | Not found |  |   |   |
+|  75.       | SOCIS                                      |   |   | Not found |  |   |   |
+|  76.       | Sanscript Autumn of Open Source            |   |   | Not found |  |   |   |
+|  77.       | Snowplow                                   | Yes  |   | Not found |  |   |   |
+|  78.       | RGSOC                                      |   |   | Not found |  |   |   |
+|  79.       | RubyMe Mentorship Program                  | Yes  |   | Not found |  |   |   |
+|  80.       | Quantopian Open                            |   |   | Not found |  |   |   |
+|  81.       | OWASP SOC                                  |   |   | Not found |  |   |   |
+|  82.       | Open Innovation Project                    |   |   | Not found |  |   |   |
+|  83.       | Open Source Track Explorer                 |   |   | Not found |  |   |   |
+|  84.       | MDG Winter of Code                         |   |   | Not found |  |   |   |
+|  85.       | ICFOSS Fellowship Programme                |   |   | Not found |  |   |   |
+|  86.       | Halite AI Bot Challenge                    |   |   | Not found |  |   | Swag rewards for winners  |
+|  87.       | HackinCodes Contributor's Hack             |   |   | Not found |  |   | Prizes, swag rewards, Certificate  |
+|  88.       | Free Software Observation                  |   |   | Not found |  |   |   |
+|  89.       | Educational Externship Track               |   |   | Not found |  |   |   |
+|  90.       | (DAWOC) DA-IICT Winter of Code             |   |   | Not found |  |   |   |
+|  91.       | Data Driven Competitions                   |   |   | Not found |  |   | Cash Prizes For Winners  |
+|  92.       | Data Observation National of Earth         |   |   | Not found |  |   |   |
+|  93.       | Cats winter of code                        |   |   | Not found |  |   |   |
 
 
 
