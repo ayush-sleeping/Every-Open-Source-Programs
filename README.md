@@ -32,7 +32,8 @@
 **Aim of this repo. is , &nbsp; &nbsp; You never miss the deadline.** <br>
 **All are categorized according to their "Registration Date Begin".**
 
- <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Programs-blueviolet" /></a> &nbsp; <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Internships-blueviolet" /></a> &nbsp; <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Competitions-blueviolet" /></a> &nbsp; <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Fellowship-blueviolet" /></a>  
+ <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Programs-blueviolet?style=flat-square" /></a>      <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Internships-blueviolet?style=flat-square" /></a> 
+ <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Competitions-blueviolet?style=flat-square" /></a>  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Fellowship-blueviolet?style=flat-square" /></a>  
  
 </div>
  
