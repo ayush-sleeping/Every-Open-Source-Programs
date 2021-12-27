@@ -17,7 +17,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <p align="center">
-    <strong> Here, You can find every Open Source Programs | Internships | Competitions in an systematic way. &nbsp; Aim of this repo. is , You never miss the deadline. </strong>
+    <strong> Here, You can find every Open Source *Programs | *Internships | *Competitions in an systematic way. </strong>
     <br />
   <br />
    <a href="https://opensource.guide/"><strong>Open Source Guides »</strong></a>
@@ -30,7 +30,8 @@
   
 
 <div align="center">
-
+ 
+**Aim of this repo. is , You never miss the deadline.** <br>
 **All are categorized according to their "Registration Date Begin".**
  
 </div>
