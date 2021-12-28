@@ -29,7 +29,7 @@
 <div align="center">
  
 **Aim of this repo. is , &nbsp;  You never miss the deadline.** <br>
-**All are categorized according to their "Registration Date Begin".**
+
 
  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Programs-blueviolet?style=flat-square" /></a>      <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Internships-blueviolet?style=flat-square" /></a> 
  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Competitions-blueviolet?style=flat-square" /></a>  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Fellowship-blueviolet?style=flat-square" /></a>  
@@ -49,26 +49,37 @@
 
 <p align="right">(<a href="#Bottom">Bottom</a>)</p>
 
+![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 ## Schedule of all the OS Programs
-![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+<div align="center"> 
+ 
+ **All are categorized according to their "Registration Date Begin".** 
+
+</div>
+
+
+
 <br>
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 |    | ![January](https://img.shields.io/badge/-January-%23E12B38?style=for-the-badge) | -------| -------- | -------------------- | ---------          | -----| -------|
 | 1.         | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [Jan - Apr](https://fellowship.mlh.io/programs/open-source)   | Before the deadline | Jan-4th   | Fellowship  | Certificate, Swags & more |
-| 2.         | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Mar 1 - May 31](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jan             | late-Feb   | Mentorship Program  |  Certificate  |
+| 2.         | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Mar - May](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jan             | late-Feb   | Mentorship Program  |  Certificate  |
 | 3.         | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply)             | Yes  | [Jun - Aug(Full-Time) Jun - Nov(Part-time)](https://wiki.hyperledger.org/display/INTERN#HyperledgerMentorshipProgram-SummerFT(Full-Time)MenteeSchedule)  | Jan-28                | Mar-10       | Mentorship Program   | Certificate  |
 | 4.         | [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [May - Aug](https://www.outreachy.org/apply/project-selection/)  | late Jan            | late Feb | Internship  | Certificate  |
-| 5.         | FOSSEE Semester-long Internship            |   |   | 08 Jan              | 05 Feb    | Internship | Certificate  |
-| 6.         | Open Mainframe Project (Linux Foundation)  |   |   | mid-Jan             | mid-Feb   | OS-Program  | Certificate  |
-| 7.         | Cross Winter of code                       |   |   | 25 Jan              | 10 Feb    | OS-Program  | Certificates & swags  |
+| 5.         | [FOSSEE Semester-long Internship](https://fossee.in/semester-internship/2021)            |     | [Mar - Apr](https://www.google.com/search?q=FOSSEE+Semester-long+Internship+timeline&ei=MN7KYYrmF4jZ0ASWhKuABg&ved=0ahUKEwiKvtemnIb1AhWILJQKHRbCCmAQ4dUDCA4&uact=5&oq=FOSSEE+Semester-long+Internship+timeline&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BggAEBYQHjoHCCEQChCgAToFCCEQoAFKBAhBGABKBAhGGABQrAFY-RRgxRxoAXAAeACAAckCiAGnEJIBBTItOC4xmAEAoAEByAEIwAEB&sclient=gws-wiz)  | 08 Jan              | 05 Feb    | Internship | Certificate  |
+| 6.         | [Open Mainframe Project (Linux Foundation)](https://www.openmainframeproject.org/projects/internship-program)  |   | [Mar - May](https://www.openmainframeproject.org/projects/internship-program)  | mid-Jan             | mid-Feb   | OS-Program  | Certificate  |
+| 7.         | [Cross Winter of code](https://crosswoc.ieeedtu.in/)                       |   | [Feb - Mar](https://crosswoc.ieeedtu.in/#schedule)  | 25 Jan              | 10 Feb    | OS-Program  | Certificates & swags  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -82,6 +93,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -96,6 +108,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -111,6 +124,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -125,6 +139,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -136,6 +151,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -148,6 +164,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -160,6 +177,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -174,6 +192,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -185,6 +204,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -197,6 +217,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -207,6 +228,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
