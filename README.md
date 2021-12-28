@@ -58,13 +58,13 @@
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 |    | ![January](https://img.shields.io/badge/-January-%23E12B38?style=for-the-badge) | -------| -------- | -------------------- | ---------          | -----| -------|
-| 1.         | MLH Fellowship (Pre-program & Open source) | Yes  |   | Before the deadline | Jan-4th   |   |   |
-| 2.         | Linux Kernel Mentorship Program            | Yes  |   | mid-Jan             | mid-Feb   |   |   |
-| 3.         | Hyperledger Mentorship Program             | Yes  |   | Jan                 | Mar       |   |   |
-| 4.         | Outreachy                                  | Yes  |   | late Jan            | early Feb |   |   |
-| 5.         | FOSSEE Semester-long Internship            |   |   | 08 Jan              | 05 Feb    |   |   |
-| 6.         | Open Mainframe Project (Linux Foundation)  |   |   | mid-Jan             | mid-Feb   |   |   |
-| 7.         | Cross Winter of code                       |   |   | 25 Jan              | 10 Feb    |   | Certificates & swag rewards  |
+| 1.         | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [Jan - Apr](https://fellowship.mlh.io/programs/open-source)   | Before the deadline | Jan-4th   | Fellowship  | Certificate, Swags & more |
+| 2.         | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Mar 1 - May 31](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jan             | late-Feb   | Mentorship Program  |  Certificate  |
+| 3.         | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply)             | Yes  | [Jun - Aug(Full-Time) Jun - Nov(Part-time)](https://wiki.hyperledger.org/display/INTERN#HyperledgerMentorshipProgram-SummerFT(Full-Time)MenteeSchedule)  | Jan-28                | Mar-10       | Mentorship Program   | Certificate  |
+| 4.         | [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [May - Aug](https://www.outreachy.org/apply/project-selection/)  | late Jan            | late Feb | Internship  | Certificate  |
+| 5.         | FOSSEE Semester-long Internship            |   |   | 08 Jan              | 05 Feb    | Internship | Certificate  |
+| 6.         | Open Mainframe Project (Linux Foundation)  |   |   | mid-Jan             | mid-Feb   | OS-Program  | Certificate  |
+| 7.         | Cross Winter of code                       |   |   | 25 Jan              | 10 Feb    | OS-Program  | Certificates & swags  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -73,11 +73,11 @@
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 |  | ![February](https://img.shields.io/badge/-February-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-|  8.       | Google Summer of Documentation  (Docs)     | Yes  |   | 9 Feb               | 26 Mar |   |   |
-|  9.        | Mircosoft:-Reiforcement Learning Open Source Fest |   |   | 1 Feb | 1 Mar |   |   |
-|  10.        | Outreachy                                  |   |   | early Feb           | late Feb |   |   |
-|  11.       | DataONE Summer Internship Programme        |   |   | 22 Feb              | 25 Mar |   |   |
-|  12.       | GirlScript Summer of code  (GSSoC)         |   |   | Feb                 | Mar |   | Prizes, swag rewards and internship opportunities for winners  |
+|  8.       | Google Summer of Documentation  (Docs)     | Yes  |   | 9 Feb               | 26 Mar | OS-Program  | Certificate  |
+|  9.        | Mircosoft:-Reiforcement Learning Open Source Fest |   |   | 1 Feb | 1 Mar | OS-Program | Certificate  |
+|  10.        |
+|  11.       | DataONE Summer Internship Programme        |   |   | 22 Feb              | 25 Mar | Internship  | Certificate  |
+|  12.       | GirlScript Summer of code  (GSSoC)         |   |   | Feb                 | Mar | OS-Program  | Prizes, swag rewards and internship opportunities for winners  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -86,11 +86,11 @@
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 |  | ![March](https://img.shields.io/badge/-March-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-|  13.       | Google Summer of Code - (GSoC)             | Yes  |   | 9 Mar               | 13 Apr |   |   |
-|  14.       | Google Summer of Earth Engine (SoEE)       | Yes  |   | 15 Mar              | 15 Apr |   |   |
-|  15.       | Igalia Coding Experience Program           | Yes  |   | 1 Mar               | end of Apr |   |   |
-|  16.       | RGSOC                                      | Yes  |   | 02 Mar  | 30 Mar |   |   |
-|  17.       | Processing Foundation Fellowships          | Yes  |   | Mar  | 2 Apr |   |   |
+|  13.       | Google Summer of Code - (GSoC)             | Yes  |   | 9 Mar               | 13 Apr | OS-Program  |   |
+|  14.       | Google Summer of Earth Engine (SoEE)       | Yes  |   | 15 Mar              | 15 Apr | OS-Program  |   |
+|  15.       | Igalia Coding Experience Program           | Yes  |   | 1 Mar               | end of Apr | OS-Program  |   |
+|  16.       | RGSOC                                      | Yes  |   | 02 Mar  | 30 Mar | OS-Program  |   |
+|  17.       | Processing Foundation Fellowships          | Yes  |   | Mar  | 2 Apr | Fellowship  |   |
 |  18.       | X org Foundation                           |   |   | 9 Mar  | 13 Apr |   |   |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -101,7 +101,7 @@
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 |  | ![April](https://img.shields.io/badge/-April-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  19.       | (LFN)  Linux Foundation  Mentorship Program | Yes  |   | 15 Apr             | 10 May |   |   |
-|  20.       | Linux Kernel Mentorship Program         |   |   | mid Apr             | mid-May |   |   |
+|  20.       | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Jun 1 - Aug 31](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid Apr             | late-May | Mentorship Program  | Certificate  |
 |  21.       | ERPNext Summer of Code                     |   |   | 3 Apr               | 14 Apr |   |   |
 |  22.       | FOSSEE Summer Fellowship                   |   |   | 17 Apr              | 05 May |   |   |
 |  23.       | TOR Summer of Privacy                      |   |   | 17 Apr             | end of Aug |   |   |
@@ -118,7 +118,7 @@
 |  26.       | Alibaba Summer of code                     | Yes  |   | 25 May              | 30 Jun |   |   |
 |  27.       | Tencent Rhino-bird Open-source Training Program | Yes  |   |           | before Jun |   |   |
 |  28.       | Summer of Open Souce Promotion Plan        | Yes  |   | 24 May          | 13 Jun |   |   |
-|  29.       | MLH Fellowship (Pre-program and Open source) |   |   | Before the deadline  | before 10 May |   |   |
+|  29.       | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [May - Aug](https://fellowship.mlh.io/programs/open-source)   | Before the deadline  | before 10 May | Fellowship  | Certificate, Swags & more |
 |  30.       | OSS Summer of Innovation                   |   |   | 1 May              | 5 May |   |   Prizes For Winners  |
 |  31.       | Hack Club SRM Summer of Code (HCSSoC)      |   |   | 18 May              | 23 Jun |   | Certificates & swag rewards  |
 
@@ -141,7 +141,7 @@
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 |  | ![July](https://img.shields.io/badge/-July-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  35.       | Open Mainframe Project - Linux Foundation  | Yes  |   | mid Jul              | mid Aug |   |   |
-|  36.       | Linux Kernel Mentorship Program  | Yes  |   | mid Jul              | mid Aug |   |   |
+|  36.       | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Sep 1 - Nov 30](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jul             | late-Aug | Mentorship Program  | Certificate  |
 |  37.       | Witnet Summer of Code Program [WSoC]       |   |   |           | before 15 Jul |   |   |
 |  38.       | Mozilla Winter of Security                 |   |   | 29 Jul              | 15 Sep |   |   |
 
@@ -152,11 +152,11 @@
 | No. | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 |  | ![August](https://img.shields.io/badge/-August-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-|  39.       | Script Fellowship Program                  |   |   | 1 Aug           | Oct 30 |   |   |
+|  39.       | [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [ Dec to Mar](https://www.outreachy.org/apply/project-selection/)  | mid Aug             | late Sept | Internship  | Certificate  |
 |  40.       | Girlscript winter of code (docs)           |   |   | Early Aug           | late Aug |   | Swag rewards, Certificate  |
 |  41.       | Bountiful Open Source Summer - BOSS        |   |   |                     | before 15 Aug |   | Prizes For Winners  |
-|  42.       | Outreachy                                  |   |   | mid Aug             | late Aug |   |   |
-
+|  42.       |Script Fellowship Program                  |   |   | 1 Aug           | Oct 30 |   | Certificate  |
+ 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
@@ -165,7 +165,7 @@
 |:----|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 |  | ![September](https://img.shields.io/badge/-September-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 |  43.       | GNOME Internship Program                   | Yes  |   | 1 Sep               | 1 Oct |   |   |
-|  44.       | MLH Fellowship  (Pre-program and Open source) |   |   | Before the deadline    | before 13 Sept |   |   |
+|  44.       | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [Sep - Dec](https://fellowship.mlh.io/programs/open-source)   | Before the deadline    | before 13 Sept | Fellowship  | Certificate, Swags & more |
 |  45.       | Script Winter of code  (SWoC)              |   |   | 10 Sep              | 10 Nov |   | Prizes, swag rewards, Certificate  |
 |  46.       | Semester Long Projects (SLoP by DA-IICT)   |   |   | 15 Sep              | late Sept |   | Certificates & swag rewards  |
 |  47.       | Hacktober Fest by Digital Ocean            |   |   | Sep                 | Oct |   | Swag Rewards  |
