@@ -84,10 +84,10 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![February](https://img.shields.io/badge/-February-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Google Summer of Documentation  (Docs)     | Yes  |   | 9 Feb               | 26 Mar | OS-Program  | Certificate  |
-| Mircosoft:-Reiforcement Learning Open Source Fest |   |   | 1 Feb | 1 Mar | OS-Program | Certificate  |
-| DataONE Summer Internship Programme        |   |   | 22 Feb              | 25 Mar | Internship  | Certificate  |
-| GirlScript Summer of code  (GSSoC)         |   |   | Feb                 | Mar | OS-Program  | Prizes, swag rewards and internship opportunities for winners  |
+| [Google Summer of Documentation-(Docs)](https://developers.google.com/season-of-docs)     | Yes  | [Apr - Nov](https://developers.google.com/season-of-docs/docs/timeline)  | 9 Feb               | 26 Mar | OS-Program  | Certificate  |
+| [Mircosoft:-Reiforcement Learning Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) | Yes | [May - Aug](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)  | 1 Feb | 1 Mar | OS-Program | Certificate  |
+| [DataONE Summer Internship Programme](https://old.dataone.org/internships)        |   | [May - Jul](https://old.dataone.org/internships)  | 22 Feb              | 25 Mar | Internship  | Certificate  |
+| [GirlScript Summer of code-(GSSoC)](https://gssoc.girlscript.tech/)         |   | [Mar - May](https://gssoc.girlscript.tech/schedule.html)  | Feb                 | Mar | OS-Program  | Prizes, swag rewards and internship opportunities for winners  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
