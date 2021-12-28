@@ -12,6 +12,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ayush-sleeping/Every-Open-Source-Programs?color=red&style=social)
 ![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=social)
 
+ <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Programs-blueviolet?style=flat-square" /></a>      <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Internships-blueviolet?style=flat-square" /></a> 
+ <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Competitions-blueviolet?style=flat-square" /></a>  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Fellowship-blueviolet?style=flat-square" /></a>  
 </div>
 
 
@@ -28,12 +30,8 @@
 
 <div align="center">
  
-**Aim of this repo. is , &nbsp;  You never miss the deadline.** <br>
+**Aim of this repository is , &nbsp; You never miss the deadline.** <br>
 
-
- <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Programs-blueviolet?style=flat-square" /></a>      <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Internships-blueviolet?style=flat-square" /></a> 
- <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Competitions-blueviolet?style=flat-square" /></a>  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-*Fellowship-blueviolet?style=flat-square" /></a>  
- 
 </div>
 
  #
@@ -97,12 +95,12 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![March](https://img.shields.io/badge/-March-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Google Summer of Code - (GSoC)             | Yes  |   | 9 Mar               | 13 Apr | OS-Program  |   |
-| Google Summer of Earth Engine (SoEE)       | Yes  |   | 15 Mar              | 15 Apr | OS-Program  |   |
-| Igalia Coding Experience Program           | Yes  |   | 1 Mar               | end of Apr | OS-Program  |   |
-| RGSOC                                      | Yes  |   | 02 Mar  | 30 Mar | OS-Program  |   |
-| Processing Foundation Fellowships          | Yes  |   | Mar  | 2 Apr | Fellowship  |   |
-| X org Foundation                           |   |   | 9 Mar  | 13 Apr |   |   |
+| [Google Summer of Code-(GSoC)](https://summerofcode.withgoogle.com/)             | Yes  | [Mar - Sept](https://summerofcode.withgoogle.com/how-it-works#timeline)  | early Mar               | mid Apr | OS-Program  | Certificate |
+| [Google Summer of Earth Engine-(SoEE)](https://sites.google.com/view/summerofearthengine/home?authuser=0)       | Yes  | [May - July](https://sites.google.com/view/summerofearthengine/timeline)  | 15 Mar              | 15 Apr | OS-Program  | Certificate  |
+| [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)           | Yes  |   | 1 Mar               | end of Apr | OS-Program  | Certificate  |
+| [RAILS GIRLS SUMMER OF CODE-(RGSOC)](https://railsgirlssummerofcode.org/)                                      | Yes  | [Jun - Sep](https://railsgirlssummerofcode.org/)  | 02 Mar  | 30 Mar | OS-Program  | Certificate  |
+| [Processing Foundation Fellowships](https://processingfoundation.org/fellowships/)          | Yes  |   | Mar  | 2 Apr | Fellowship  | Certificate  |
+| [X org Foundation-(EVOC)](https://www.x.org/wiki/XorgEVoC/)                           |   |   | 9 Mar  | 13 Apr | OS-Program  | Certificate  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
