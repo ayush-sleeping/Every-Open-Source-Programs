@@ -55,7 +55,7 @@
 
 <div align="center"> 
  
- All are categorized according to their "Registration Date Begin". Kindly note down, All the dates are in approx. it's based on previous year tmeline on their "Official Website" . **Always visite their Official Website and confirm the timeline** and you can also update the timeline here, if you want then, make a issue and push a PR .
+ All are categorized according to their "Registration Date Begin". Kindly note down, All the dates are in approx. it's based on previous year tmeline on their "Official Website" . **Always visit their Official Website and confirm the timeline** and you can also update the timeline here, if you want then, make a issue and push a PR .
  
  **Some popular OS - Programs are marked by ⭐ .**
 
@@ -135,7 +135,7 @@
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | University OS Program |   Swags & Prizes For Winners  |
 | [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | University OS Program  | Certificates & swag rewards  |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                        |   |   | The challenge opens every "May" then close by "September" |  | Competitions  | Prizes for winners  |
-| [Bountiful Open Source Summer-BOSS](https://lab.codingblocks.com/boss)        |   | [May - Aug](https://lab.codingblocks.com/boss#rules-and-eligibility)  |                     | before Aug | Competitions| Prizes For Winners & top performers  |
+| [Bountiful Open Source Summer-BOSS](https://lab.codingblocks.com/boss)        |   | [May - Aug](https://lab.codingblocks.com/boss#rules-and-eligibility)  |                     | before 15 Aug | Competitions| Prizes For Winners & top performers  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -237,7 +237,7 @@
 | ⭐ [(CNCF)-Community Bridge Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)               | Yes  |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
 | ⭐ [Redox Summer of code](https://www.redox-os.org/rsoc/)                       | Yes  |   | In Summer |  |   |   |
 | [Julia Season of Contribution-(JSOC)](https://julialang.org/jsoc/#:~:text=The%20Julia%20Seasons%20of%20Contributions,to%20the%20open%20source%20ecosystem.)               | Yes  |   | It takes part in - GSOC & GSOD |  | OS - Program  | Certificate  |
-| [Foss Asia Intership Program](https://fossasia.org/)               | Yes  |   | Whole Year |  | OS - Program  |   |
+| ⭐ [Foss Asia Intership Program](https://fossasia.org/)               | Yes  |   | Whole Year |  | OS - Program  |   |
 | [John Hunter Matplotlib Summer Fellowship](https://numfocus.org/programs/john-hunter-technology-fellowship)              | Yes  |   | Summer - 3 monthes |  | Fellowship  |   |
 | [Radare Summer of Code](https://www.radare.org/gsoc/2020/)                      | Yes  |   | RSoC Project take part in GSOC |  |   |   |
 | [Summer of Haskell](https://summer.haskell.org/)                          | Yes  |   | SOH projects take part in GSOC |  |   |   |
@@ -262,9 +262,9 @@
 | [HackinCodes Contributor Hack](https://hakincodes.live/)             |   |   | Not found |  | Competitions  | Prizes, swag rewards, Certificate  |
 | [Data Driven Competition](https://www.drivendata.org/competitions/)                   |   |   | Not found |  | Competitions  | Cash Prizes For Winners  |
 | [(DAWOC)-DA-IICT Winter of Code](https://dawoc.herokuapp.com/)             |   |   | Not found |  |   |   |
+| [Cats winter of code](https://github.com/TheCWoC)                        |   |   | Not found |  |   |   |
 | Educational Externship Track               |   |   | Not found |  | Externship  |   |
 | Data Observation National of Earth         |   |   | Not found |  |   |   |
-| Cats winter of code                        |   |   | Not found |  |   |   |
 | SOCIS                                      |   |   | Not found |  |   |   |
 | Open Innovation Project                    |   |   | Not found |  |   |   |
 | Open Source Track Explorer                 |   |   | Not found |  |   |   |
@@ -284,40 +284,40 @@
 ![OS](https://img.shields.io/badge/-Open%20Source%20Programs%20%7C%20Internships%20%7C%20Fellowships%20%7C%20Competitions-blueviolet)
 <br>
 
-* Alibaba Summer of code
-* ACM MM Open Source Software Competition
+* [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)
+* [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc)
 <br>
 
-* Bountiful Open Source Summer- BOSS
+* [Bountiful Open Source Summer-BOSS](https://lab.codingblocks.com/boss)
 <br>
 
-* (CNCF)  Community Bridge Mentorship Program
-* Cross Research Experience Program
-* Cross Winter of code
-* Cats winter of code
+* [(CNCF)-Community Bridge Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+* [Cross Research Experience Program](https://cross.ucsc.edu/programs/osre2021.html)
+* [Cross Winter of code](https://crosswoc.ieeedtu.in/) 
+* [Cats winter of code](https://github.com/TheCWoC)
 <br>
 
+* [Data Driven Competition](https://www.drivendata.org/competitions/)
+* [Delta Winter of Code-(DWoC)](https://dwoc.io/)
+* [DevScript Winter of code](https://devscript.org/woc/)
+* [DataONE Summer Internship Programme](https://old.dataone.org/internships)
+* [(DAWOC)-DA-IICT Winter of Code](https://dawoc.herokuapp.com/)
 * Data Observation National of Earth 
-* Driven Data (competitions)
-* Delta Winter of Code (DWoC)
-* DevScript Winter of code
-* DataONE Summer Internship Programme
-* (DAWOC) DA-IICT Winter of Code
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
 
+* [ERPNext Summer of Code](https://erpnext.org/esoc)
 * Educational Externship Track
-* ERPNext Summer of Code
 <br>
 
-* Foss Asia Codeheat
-* Foss Asia Intership Program 
-* Free Software Foundation (FSF) Intership Program
+* [Foss Asia Codeheat](https://codeheat.org/)
+* [Foss Asia Intership Program](https://fossasia.org/) 
+* [Free Software Foundation (FSF) Intership Program](https://www.fsf.org/volunteer/internships) 
+* [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2021)
+* [FOSSEE Semester-long Internship](https://fossee.in/semester-internship/2021)
 * Free Software Observation
-* FOSSEE Summer Fellowship 
-* FOSSEE Semester-long Internship 
 <br>
 
 * Google Summer of Code -  (GSoC)
