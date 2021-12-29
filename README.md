@@ -127,11 +127,11 @@
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![May](https://img.shields.io/badge/-May-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [May - Aug](https://fellowship.mlh.io/programs/open-source)   | Before the deadline  | before 10 May | Fellowship  | Certificate, Swags & more |
-| [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)                     | Yes  | [Aug](https://www.alibabacloud.com/tc/campaign/summerofcode2020)  | 25 May              | 30 Jun |OS-Program  | Certificate  |
-| [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code#flow) | Yes  |   |           | before Jun |OS-Program  | Certificate  |
-| [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn/help/en/)        | Yes  | [Jul - Nov](https://summer.iscas.ac.cn/help/en/timeline/)  | 24 May          | 13 Jun |OS-Program  | Certificate  |
-| [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May |   |   Swags & Prizes For Winners  |
-| [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun |   | Certificates & swag rewards  |
+| [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)                     | Yes  | [Aug](https://www.alibabacloud.com/tc/campaign/summerofcode2020)  | 25 May              | 30 Jun | OS-Program  | Certificate  |
+| [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code#flow) | Yes  |   |           | before Jun | OS-Program  | Certificate  |
+| [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn/help/en/)        | Yes  | [Jul - Nov](https://summer.iscas.ac.cn/help/en/timeline/)  | 24 May          | 13 Jun | OS-Program  | Certificate  |
+| [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | OS-Program  |   Swags & Prizes For Winners  |
+| [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | OS-Program  | Certificates & swag rewards  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -141,9 +141,9 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![June](https://img.shields.io/badge/-June-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Open Summer of Code  (OSoC)  for students  | Yes  |   | Jun           | Jul |   |   |
-| ACM MM Open Source Software Competition    |   |   | Early Jun           | 25 Jun |   | Prizes For Winners  |
-| PClub Summer Of Code |   |   | Early Jun           | late Jun |   |   |
+| [Open Summer of Code-(OSoC)](https://osoc.be/)  | Yes  | [Jul](https://osoc.be/)  | Jun           | early-Jul | OS-Program  | Certificate  |
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc)    |   |   | Early Jun           | 25 Jun | Competitions  | Prizes For Winners  |
+| [PClub Summer Of Code](https://www.pclubuiet.com/) |   |   | Early Jun           | late Jun | OS-Program  |   |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
