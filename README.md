@@ -236,7 +236,7 @@
 | ⭐ [Free Software Foundation (FSF) Intership Program](https://www.fsf.org/volunteer/internships)               |   |   | winter: December 8 summer: May 10 Fall: September 2. spring: November 29 |  | Intership  |   |
 | ⭐ [(CNCF)-Community Bridge Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)               | Yes  |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
 | ⭐ [Redox Summer of code](https://www.redox-os.org/rsoc/)                       | Yes  |   | In Summer |  |   |   |
-| [Julia Season of Contribution-(JSOC)](https://julialang.org/jsoc/#:~:text=The%20Julia%20Seasons%20of%20Contributions,to%20the%20open%20source%20ecosystem.)               | Yes  |   | It takes part in - GSOC & GSOD |  | OS - Program  | Certificate  |
+| ⭐ [Julia Season of Contribution-(JSOC)](https://julialang.org/jsoc/#:~:text=The%20Julia%20Seasons%20of%20Contributions,to%20the%20open%20source%20ecosystem.)               | Yes  |   | It takes part in - GSOC & GSOD |  | OS - Program  | Certificate  |
 | ⭐ [Foss Asia Intership Program](https://fossasia.org/)               | Yes  |   | Whole Year |  | OS - Program  |   |
 | [John Hunter Matplotlib Summer Fellowship](https://numfocus.org/programs/john-hunter-technology-fellowship)              | Yes  |   | Summer - 3 monthes |  | Fellowship  |   |
 | [Radare Summer of Code](https://www.radare.org/gsoc/2020/)                      | Yes  |   | RSoC Project take part in GSOC |  |   |   |
@@ -320,47 +320,47 @@
 * Free Software Observation
 <br>
 
-* Google Summer of Code -  (GSoC)
-* Google Summer of Documentation  (Docs)
-* Google Summer of Earth Engine  (SoEE)
-* GNOME Internship Program
-* GirlScript Summer of code  (GSSoC)
-* Girlscript winter of code (documentation)
-* Google Code-in (GCI)
+* [Google Summer of Code-(GSoC)](https://summerofcode.withgoogle.com/)
+* [Google Summer of Documentation-(Docs)](https://developers.google.com/season-of-docs))
+* [Google Summer of Earth Engine-(SoEE)](https://sites.google.com/view/summerofearthengine/home?authuser=0)
+* [GNOME Internship Program](https://foundation.gnome.org/2018/05/08/announcing-the-gnome-internship-program/)
+* [GirlScript Summer of code-(GSSoC)](https://gssoc.girlscript.tech/)
+* [Girlscript winter of code (docs)](https://gwoc.girlscript.tech/)
+* [Google Code-in (GCI)](https://codein.withgoogle.com/archive/)
 <br>
 
-* Hyperledger Mentorship Program
-* Hacktober Fest by Digital Ocean
-* Hack Club SRM Summer of Code (HCSSoC)
-* Halite AI Bot Challenge
-* HackinCodes Contributor's Hack
+* [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply)
+* [Hacktober Fest by Digital Ocean](https://hacktoberfest.digitalocean.com/)
+* [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)
+* [Halite AI Bot Challenge](https://halite.io/)
+* [HackinCodes Contributor Hack](https://hakincodes.live/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
 
-* Igalia Coding Experience Program 
-* IIIT-Kalyani Winter of code
-* ICFOSS Fellowship Programme
+* [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)
+* [IIIT-Kalyani Winter of code 2.0](https://gdsc-woc.tech/)
+* [ICFOSS Fellowship Programme](https://icfoss.in/capacity-building/7)
 <br>
 
-* Julia Season of Contribution
-* John Hunter Matplotlib Summer Fellowship
-* JGEC Winter of code
+* [Julia Season of Contribution-(JSOC)](https://julialang.org/jsoc/#:~:text=The%20Julia%20Seasons%20of%20Contributions,to%20the%20open%20source%20ecosystem.)
+* [John Hunter Matplotlib Summer Fellowship](https://numfocus.org/programs/john-hunter-technology-fellowship)
+* [JGEC Winter of code](https://jgec-winter-of-code.github.io/)
 <br>
 
-* Kubernetes Shadows Program
-* Kharagpur Open Source Society  (KWoC)
+* [Kubernetes Shadows Program](https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md)
+* [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)
 <br>
 
-* Linux Foundation  (LFN)  Mentorship Program 
-* Linux Kernel Mentorship Program
+* [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+* [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
 
-* MLH Fellowship  ( Pre-program and Open source)
+* [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/)
 * Mircosoft:- Reiforcement Learning Open Source Fest
 * Millennium Fellowship
 * Microsoft Learn Student Ambassador Program
