@@ -115,8 +115,8 @@
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Jun 1 - Aug 31](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid Apr             | late-May | Mentorship Program  | Certificate  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc)                     | Yes  | [May - Aug](https://erpnext.org/esoc#timeline)  | 3 Apr               | 14 Apr | OS-Program  | Certificate  |
 | [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2021)                   |   |   | 17 Apr              | 05 May | Fellowship  | Certificate  |
-| Cross Research Experience Program          |   |   | mid Apr             | before May 10 | OS-Program  | Certificate  |
-| Open Mainframe Project -Linux Foundation   |   |   | mid Apr             | mid May | OS-Program  | Certificate  |
+| [Cross Research Experience Program](https://cross.ucsc.edu/programs/osre2021.html)         |   |   | mid Apr             | before May 10 | OS-Program  | Certificate  |
+| [Open Mainframe Project -Linux Foundation](https://www.openmainframeproject.org/projects/mentorship-program)   |   |   | mid Apr             | mid May | OS-Program  | Certificate  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
