@@ -55,7 +55,9 @@
 
 <div align="center"> 
  
- All are categorized according to their "Registration Date Begin". Kindly note down, All the dates are in approx. it's based on previous year tmeline on their "Official Website" . **Always visit their Official Website and confirm the timeline** and you can also update the timeline here, if you want then, make a issue and push a PR .
+ All are categorized according to their "Registration Date Begin". 
+ 
+ Kindly note down, All the dates are in approx. it's based on previous year tmeline on their "Official Website" . **Always visit their Official Website and confirm the timeline** and you can also update the timeline here, if you want then, make a issue and push a PR .
  
  **Some popular OS - Programs are marked by ⭐ .**
 
@@ -281,6 +283,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 ## All the OS Programs list
+![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![OS](https://img.shields.io/badge/-Open%20Source%20Programs%20%7C%20Internships%20%7C%20Fellowships%20%7C%20Competitions-blueviolet)
 <br>
 
@@ -411,26 +414,25 @@
 * SOCIS
 <br>
 
-* Tencent Rhino-bird Open-source Training Program
-* The X.Org Endless Vacation of Code (EVoC)
-* TOR Summer of Privacy
-* Tweag I/O Summer Internship
-
+* [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code#flow)
+* [The X.Org Endless Vacation of Code-(EVoC)](https://www.x.org/wiki/XorgEVoC/)
+* [TOR Summer of Privacy](https://blog.torproject.org/tor-summer-privacy-apply-now/)
+* [Tweag I/O Summer Internship](https://www.tweag.io/blog/2019-03-11-internships/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
 
-* Vectorised IO   
+* [Vectorised IO](https://vectorized.io/)
 <br>
 
-* Winter of code  
-* Witnet Summer of Code Program 
+* [Winter of code by NSEC](https://winterofcode.com/)
+* [Witnet Summer of Code Program-(WSoC)](https://medium.com/witnet/introducing-the-witnet-summer-of-code-program-wsoc-bbe0b086052f)
 <br>
 
-* X org Foundation 
+* [X org Foundation-(EVOC)](https://www.x.org/wiki/XorgEVoC/)
 <br>
 
-* 24 Pull Requests 
+* [24 Pull Requests](https://24pullrequests.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
