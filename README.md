@@ -361,37 +361,35 @@
 <br>
 
 * [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/)
-* Mircosoft:- Reiforcement Learning Open Source Fest
-* Millennium Fellowship
-* Microsoft Learn Student Ambassador Program
-* Mozilla Winter of Security
-* MDG Winter of Code
+* [Mircosoft:- Reiforcement Learning Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+* [Millennium Fellowship](https://www.millenniumfellows.org/)
+* [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/) 
+* [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016#:~:text=the%20application%20form-,Timeline,announcing%20results%20on%20September%2030th.) 
+* [MDG Winter of Code](https://woc.sdslabs.co/?fbclid=IwAR2YNnFKh3fWQKEdc1ugVYSIClK1uSclU7qTzSDQen827eGIpTBfxfA6VCk)
 <br>
 
-* NJACK Winter Of Code 
+* [NJACK Winter Of Code](https://njackwinterofcode.github.io/) 
 <br>
 
+* [Outreachy](https://www.gnome.org/outreachy/)
+* [Open Mainframe Project (Mentorship Program) (Linux Foundation)](https://www.openmainframeproject.org/projects/internship-program)
+* [Open Summer of Code-(OSoC)](https://osoc.be/)
+* [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)
+* [OpenCode IIITA](https://opencodeiiita.github.io/)
+* [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)
+* [OWASP SOC](https://owasp.org/)
 * Open Source Track Explorer 
-* Outreachy 
-* Open Mainframe Project - Linux Foundation 
-* Open Summer of Code  (OSoC)  for students 
-* Open Mainframe (Mentorship Program)
 * Open Innovation Project
-* OSS Summer of Innovation 
-* OpenCode IIITA 
-* Open Summer of code 
-* OSS World Challenge 
-* OWASP SOC
 <br>
 
-* Processing Foundation Fellowships 
-* PClub Summer Of Code 
+* [Processing Foundation Fellowships](https://processingfoundation.org/fellowships/)
+* [PClub Summer Of Code](https://www.pclubuiet.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
 
-* Quantopian Open
+* [Quantopian Open](https://www.quantopian.com/open)
 <br>
  
 * Redox Summer of code 
