@@ -133,6 +133,8 @@
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | University OS Program |   Swags & Prizes For Winners  |
 | [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | University OS Program  | Certificates & swag rewards  |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                        |   |   | The challenge opens every "May" then close by "September" |  | Competitions  | Prizes for winners  |
+| [Bountiful Open Source Summer-BOSS](https://lab.codingblocks.com/boss)        |   | [May - Aug](https://lab.codingblocks.com/boss#rules-and-eligibility)  |                     | before Aug | Competitions
+  | Prizes For Winners & top performers  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -145,6 +147,7 @@
 | [Open Summer of Code-(OSoC)](https://osoc.be/)  | Yes  | [Jul](https://osoc.be/)  | Jun           | early-Jul | OS-Program  | Certificate  |
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc)    |   |   | Early Jun           | 25 Jun | Competitions  | Prizes For Winners  |
 | [PClub Summer Of Code](https://www.pclubuiet.com/) |   |   | Early Jun           | late Jun | OS-Program  |   |
+| [Script Fellowship Program](https://sfp.scriptindia.org/)                  |   | [Aug - Nov](https://sfp.scriptindia.org/)  | 1 Jun           | 25 Jul | Fellowship | Certificate  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -167,10 +170,8 @@
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![August](https://img.shields.io/badge/-August-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [ Dec to Mar](https://www.outreachy.org/apply/project-selection/)  | mid Aug             | late Sept | Internship  | Certificate  |
-| Girlscript winter of code (docs)           |   |   | Early Aug           | late Aug |   | Swag rewards, Certificate  |
-| Bountiful Open Source Summer - BOSS        |   |   |                     | before 15 Aug | Competitions
-  | Prizes For Winners  |
-|Script Fellowship Program                  |   |   | 1 Aug           | Oct 30 |   | Certificate  |
+| [Girlscript winter of code (docs)](https://gwoc.girlscript.tech/)           |   | [Sep - Nov](https://gwoc.girlscript.tech/)  | Early Aug           | late Aug | OS - Program  | Swag rewards for top performer, Certificate  |
+
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -182,7 +183,7 @@
 | ![September](https://img.shields.io/badge/-September-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | GNOME Internship Program                   | Yes  |   | 1 Sep               | 1 Oct |   |   |
 | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [Sep - Dec](https://fellowship.mlh.io/programs/open-source)   | Before the deadline    | before 13 Sept | Fellowship  | Certificate, Swags & more |
-| Script Winter of code  (SWoC)              |   |   | 10 Sep              | 10 Nov |   | Prizes, swag rewards, Certificate  |
+| [Script Winter of code-(SWoC)](https://swoc.scriptindia.org/#/)              |   | [Nov - Mar](https://swoc.scriptindia.org/#/)  | 10 Sep              | 10 Nov | OS - Program  | Prizes, swag rewards, Certificate  |
 | [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)   |   | [Sep - Nov](https://slop.dscdaiict.in/)  | 15 Sep              | late Sept | University OS Program  | Certificates & swag rewards  |
 | [Hacktober Fest by Digital Ocean](https://hacktoberfest.digitalocean.com/)            |   | [Oct](https://hacktoberfest.digitalocean.com/)  | Sep                 | Oct | Competitions  | Swag Rewards  |
 | [Google Code-in (GCI)](https://codein.withgoogle.com/archive/)                       |   | [Timeline](https://developers.google.com/open-source/gci/timeline)  |          | before Oct        | Competitions  | Prizes for winners  |
@@ -210,7 +211,7 @@
 | [Winter of code by NSEC](https://winterofcode.com/)                     |   | [Dec - Jan](https://winterofcode.com/#timeline)  | 20 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
 | [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)       |   | [Dec - Jan](https://kwoc.kossiitkgp.org/#tline)  | 26 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
 | [DevScript Winter of code](https://devscript.org/woc/)                   |   | [Dec - Mar](https://devscript.org/woc/)  | 30 Nov              | 25 Dec | University OS Program  | Certificates & swag rewards  |
-| Foss Asia Codeheat                         |   |   | runs from Nov 10    | 11 May | Competitions
+| [Foss Asia Codeheat](https://codeheat.org/)                         |   | [Nov - Jan](https://codeheat.org/#timeline)  | runs from Nov 10    | 11 May | Competitions
   | Cash Prizes For Winners  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -221,9 +222,9 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![December](https://img.shields.io/badge/-December-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Season of KDE                              |   |   | 15 Dec              | 15 Jan |   |   |
-| JGEC Winter of code                        |   |   | 25 Dec              | 15 Jan | University OS Program  | Certificates & swag rewards  |
-| 24 Pull Requests                           |   |   | Send 24 pull requests between December 1st and December 24th |  | Competitions  |   |
+| [Season of KDE](https://season.kde.org/)                              |   | [Jan - Mar](https://dot.kde.org/2017/11/19/announcing-season-kde-2018)  | 15 Dec              | 15 Jan | OS - Program  |   |
+| [JGEC Winter of code](https://jgec-winter-of-code.github.io/)                        |   | [Dec  -Feb](https://jgec-winter-of-code.github.io/#timeline)  | 7 Dec              | 7 Dec | University OS Program  | Certificates & swag rewards  |
+| [24 Pull Requests](https://24pullrequests.com/)                           |   | [Dec](https://24pullrequests.com/)  | Send 24 pull requests between December 1st and December 24th |  | Competitions  |   |
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
