@@ -55,7 +55,7 @@
 
 <div align="center"> 
  
- **All are categorized according to their "Registration Date Begin".** 
+ All are categorized according to their "Registration Date Begin". Kindly note down, All the dates are in approx. it's based on previous year tmeline on their "Official Website" . **Always visite their Official Website and confirm the timeline** and you can also update the timeline here, if you want then, make a issue and push a PR .
 
 </div>
 
@@ -133,8 +133,7 @@
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | University OS Program |   Swags & Prizes For Winners  |
 | [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | University OS Program  | Certificates & swag rewards  |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                        |   |   | The challenge opens every "May" then close by "September" |  | Competitions  | Prizes for winners  |
-| [Bountiful Open Source Summer-BOSS](https://lab.codingblocks.com/boss)        |   | [May - Aug](https://lab.codingblocks.com/boss#rules-and-eligibility)  |                     | before Aug | Competitions
-  | Prizes For Winners & top performers  |
+| [Bountiful Open Source Summer-BOSS](https://lab.codingblocks.com/boss)        |   | [May - Aug](https://lab.codingblocks.com/boss#rules-and-eligibility)  |                     | before Aug | Competitions| Prizes For Winners & top performers  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -181,7 +180,7 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![September](https://img.shields.io/badge/-September-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| GNOME Internship Program                   | Yes  |   | 1 Sep               | 1 Oct |   |   |
+| [GNOME Internship Program](https://foundation.gnome.org/2018/05/08/announcing-the-gnome-internship-program/)                   | Yes  | [Dec - Mar](https://wiki.gnome.org/Internships#Timeline)  | 1 Sep               | 1 Oct | Internship  |   |
 | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [Sep - Dec](https://fellowship.mlh.io/programs/open-source)   | Before the deadline    | before 13 Sept | Fellowship  | Certificate, Swags & more |
 | [Script Winter of code-(SWoC)](https://swoc.scriptindia.org/#/)              |   | [Nov - Mar](https://swoc.scriptindia.org/#/)  | 10 Sep              | 10 Nov | OS - Program  | Prizes, swag rewards, Certificate  |
 | [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)   |   | [Sep - Nov](https://slop.dscdaiict.in/)  | 15 Sep              | late Sept | University OS Program  | Certificates & swag rewards  |
@@ -211,8 +210,7 @@
 | [Winter of code by NSEC](https://winterofcode.com/)                     |   | [Dec - Jan](https://winterofcode.com/#timeline)  | 20 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
 | [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)       |   | [Dec - Jan](https://kwoc.kossiitkgp.org/#tline)  | 26 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
 | [DevScript Winter of code](https://devscript.org/woc/)                   |   | [Dec - Mar](https://devscript.org/woc/)  | 30 Nov              | 25 Dec | University OS Program  | Certificates & swag rewards  |
-| [Foss Asia Codeheat](https://codeheat.org/)                         |   | [Nov - Jan](https://codeheat.org/#timeline)  | runs from Nov 10    | 11 May | Competitions
-  | Cash Prizes For Winners  |
+| [Foss Asia Codeheat](https://codeheat.org/)                         |   | [Nov - Jan](https://codeheat.org/#timeline)  | runs from Nov 10    | 11 May | Competition | Cash Prizes For Winners  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
