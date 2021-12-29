@@ -392,23 +392,23 @@
 * [Quantopian Open](https://www.quantopian.com/open)
 <br>
  
-* Redox Summer of code 
-* Radare Summer of Code
-* RARE Technologies Student Incubator Programme
-* RubyMe Mentorship Program 
-* RGSOC
+* [Redox Summer of code](https://www.redox-os.org/rsoc/)
+* [Radare Summer of Code](https://www.radare.org/gsoc/2020/)
+* [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/)
+* [RubyMe Mentorship Program](https://rubyme.org/)
+* [RGSOC](https://railsgirlssummerofcode.org/)
 <br>
 
-* Season of KDE
-* Summer of Haskell  
-* Snowplow
-* Summer of Open Souce Promotion Plan
-* Script Winter of code  (SWoC)
-* Semester Long Projects (SLoP by DA-IICT)
-* Sanscript Autumn of Open Source
-* Script Fellowship Program 
+* [Season of KDE](https://season.kde.org/)
+* [Summer of Haskell](https://summer.haskell.org/)  
+* [Snowplow](https://snowplowanalytics.com/snowplow-open-source/)
+* [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn/help/en/)
+* [Script Winter of code-(SWoC)](https://swoc.scriptindia.org/#/)
+* [Script Fellowship Program](https://sfp.scriptindia.org/)
+* [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)
+* [Sanscript Autumn of Open Source](https://www.commudle.com/communities/sanscript-india/events/autumn-of-open-source)
+* [Segment Open Fellowship](https://segment.com/opensource/)
 * SOCIS
-* Segment Open Fellowship
 <br>
 
 * Tencent Rhino-bird Open-source Training Program
