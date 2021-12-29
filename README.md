@@ -231,43 +231,43 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![Others](https://img.shields.io/badge/-Others-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Julia Season of Contribution               | Yes  |   | It takes part in - GSOC & GSOD |  |   |   |
-| Foss Asia Intership Program               | Yes  |   | Whole Year |  |   |   |
-| John Hunter Matplotlib Summer Fellowship              | Yes  |   | Summer - 3 monthes |  |   |   |
-| (CNCF)  Community Bridge Mentorship Program               | Yes  |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
-| Redox Summer of code                       | Yes  |   | In Summer |  |   |   |
-| Radare Summer of Code                      | Yes  |   | RSoC Project take part in GSOC |  |   |   |
-| Summer of Haskell                          | Yes  |   | SOH projects take part in GSOC |  |   |   |
-| The X.Org Endless Vacation of Code (EVoC)               | Yes  |   | EVoC mentorship can be initiated at any time during the calendar year |  |   |   |
-| RARE Technologies Student Incubator Programme               | Yes  |   | Poject take part in GSOC & It took place in Summer |  |   |   |
-| Vectorised IO                              | Yes  |   | Not found |  |   |   |
-| Snowplow                                   | Yes  |   | Not found |  |   |   |
-| RubyMe Mentorship Program                  | Yes  |   | Not found |  |   |   |
-| Free Software Foundation (FSF) Intership Program               |   |   | winter: December 8 summer: May 10 Fall: September 2. spring: November 29 |  |   |   |
-| Kubernetes Shadows Program                 |   |   | Shadows are selected via the Release Team Shadow Application, which usually opens up around the end of a release/beginning of the next release |  |   |   |
-| Millennium Fellowship                      |   |   | Applications for this is open for whole year except Aug to Nov |  |   |   |
-| Microsoft Learn Student Ambassador Program               |   |   | Application form is open throughout the year |  |   |   |
+| [Julia Season of Contribution-(JSOC)](https://julialang.org/jsoc/#:~:text=The%20Julia%20Seasons%20of%20Contributions,to%20the%20open%20source%20ecosystem.)               | Yes  |   | It takes part in - GSOC & GSOD |  | OS - Program  | Certificate  |
+| [Foss Asia Intership Program](https://fossasia.org/)               | Yes  |   | Whole Year |  | OS - Program  |   |
+| [John Hunter Matplotlib Summer Fellowship](https://numfocus.org/programs/john-hunter-technology-fellowship)              | Yes  |   | Summer - 3 monthes |  | Fellowship  |   |
+| [(CNCF)-Community Bridge Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)               | Yes  |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
+| [Redox Summer of code](https://www.redox-os.org/rsoc/)                       | Yes  |   | In Summer |  |   |   |
+| [Radare Summer of Code](https://www.radare.org/gsoc/2020/)                      | Yes  |   | RSoC Project take part in GSOC |  |   |   |
+| [Summer of Haskell](https://summer.haskell.org/)                          | Yes  |   | SOH projects take part in GSOC |  |   |   |
+| [The X.Org Endless Vacation of Code-(EVoC)](https://www.x.org/wiki/XorgEVoC/)               | Yes  |   | EVoC mentorship can be initiated at any time during the calendar year |  |   |   |
+| [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/)               | Yes  |   | Poject take part in GSOC & It took place in Summer |  |   |  scholarships and financial rewards  |
+| [Vectorised IO](https://vectorized.io/)                              | Yes  |   | Not found |  |   |   |
+| [Snowplow](https://snowplowanalytics.com/snowplow-open-source/)                                   | Yes  |   | Not found |  |   |   |
+| [RubyMe Mentorship Program](https://rubyme.org/)                  | Yes  |   | Not found |  | Mentorship  |   |
+| [Free Software Foundation (FSF) Intership Program](https://www.fsf.org/volunteer/internships)               |   |   | winter: December 8 summer: May 10 Fall: September 2. spring: November 29 |  | Intership  |   |
+| [Kubernetes Shadows Program](https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md)                 |   |   | Shadows are selected via the Release Team Shadow Application, which usually opens up around the end of a release/beginning of the next release |  |   |   |
+| [Millennium Fellowship](https://www.millenniumfellows.org/)                      |   |   | Applications for this is open for whole year except Aug to Nov |  | Fellowship  |   |
+| [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/)               |   |   | Application form is open throughout the year |  |   |   |
 | [OpenCode IIITA](https://opencodeiiita.github.io/)                             |   |   | starting in October for student |  | University OS Program  | Certificates & swag rewards  |
-| Tweag I/O Summer Internship                |   |   | Not found |  |   |   |
-| Segment Open Fellowship                    |   |   | Not found |  |   |   |
-| SOCIS                                      |   |   | Not found |  |   |   |
-| Sanscript Autumn of Open Source            |   |   | Not found | University OS Program | Certificates & swag rewards  |   |
-| RGSOC                                      |   |   | Not found |  |   |   |
+| [Tweag I/O Summer Internship](https://www.tweag.io/blog/2019-03-11-internships/)                |   |   | Not found |  | Internship  |   |
+| [Segment Open Fellowship](https://segment.com/opensource/)                    |   |   | Not found |  | Fellowship  |   |
+| [Sanscript Autumn of Open Source](https://www.commudle.com/communities/sanscript-india/events/autumn-of-open-source)            |   |   | Not found | University OS Program | Certificates & swag rewards  |   |
+| [RGSOC](https://railsgirlssummerofcode.org/)                                      |   |   | Not found |  |   |   |
 | [Quantopian Open](https://www.quantopian.com/open)                            |   |   | Not found |  | Competitions  | Cash prizes for winners   |
-| OWASP SOC                                  |   |   | Not found |  |   |   |
-| Open Innovation Project                    |   |   | Not found |  |   |   |
-| Open Source Track Explorer                 |   |   | Not found |  |   |   |
-| MDG Winter of Code                         |   |   | Not found |  |   |   |
-| ICFOSS Fellowship Programme                |   |   | Not found |  |   |   |
+| [OWASP SOC](https://owasp.org/)                                  |   |   | Not found |  |   |   |
+| [MDG Winter of Code](https://woc.sdslabs.co/?fbclid=IwAR2YNnFKh3fWQKEdc1ugVYSIClK1uSclU7qTzSDQen827eGIpTBfxfA6VCk)                         |   |   | Not found |  |   |   |
+| [ICFOSS Fellowship Programme](https://icfoss.in/capacity-building/7)                |   |   | Not found |  | Fellowship  |   |
 | [Halite AI Bot Challenge](https://halite.io/)                    |   |   | Not found |  | Competitions  | Swag rewards for winners  |
-| HackinCodes Contributor's Hack             |   |   | Not found |  | Competitions  | Prizes, swag rewards, Certificate  |
-| Free Software Observation                  |   |   | Not found |  |   |   |
-| Educational Externship Track               |   |   | Not found |  |   |   |
-| (DAWOC) DA-IICT Winter of Code             |   |   | Not found |  |   |   |
+| [HackinCodes Contributor Hack](https://hakincodes.live/)             |   |   | Not found |  | Competitions  | Prizes, swag rewards, Certificate  |
 | [Data Driven Competition](https://www.drivendata.org/competitions/)                   |   |   | Not found |  | Competitions  | Cash Prizes For Winners  |
+| [(DAWOC)-DA-IICT Winter of Code](https://dawoc.herokuapp.com/)             |   |   | Not found |  |   |   |
+| Educational Externship Track               |   |   | Not found |  | Externship  |   |
 | Data Observation National of Earth         |   |   | Not found |  |   |   |
 | Cats winter of code                        |   |   | Not found |  |   |   |
-
+| SOCIS                                      |   |   | Not found |  |   |   |
+| Open Innovation Project                    |   |   | Not found |  |   |   |
+| Open Source Track Explorer                 |   |   | Not found |  |   |   |
+| Free Software Observation                  |   |   | Not found |  |   |   |
+ 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
