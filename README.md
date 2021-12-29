@@ -72,7 +72,7 @@
 | [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [May - Aug](https://www.outreachy.org/apply/project-selection/)  | late Jan            | late Feb | Internship  | Certificate  |
 | [FOSSEE Semester-long Internship](https://fossee.in/semester-internship/2021)            |     | [Mar - Apr](https://www.google.com/search?q=FOSSEE+Semester-long+Internship+timeline&ei=MN7KYYrmF4jZ0ASWhKuABg&ved=0ahUKEwiKvtemnIb1AhWILJQKHRbCCmAQ4dUDCA4&uact=5&oq=FOSSEE+Semester-long+Internship+timeline&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BggAEBYQHjoHCCEQChCgAToFCCEQoAFKBAhBGABKBAhGGABQrAFY-RRgxRxoAXAAeACAAckCiAGnEJIBBTItOC4xmAEAoAEByAEIwAEB&sclient=gws-wiz)  | 08 Jan              | 05 Feb    | Internship | Certificate  |
 | [Open Mainframe Project (Linux Foundation)](https://www.openmainframeproject.org/projects/internship-program)  |   | [Mar - May](https://www.openmainframeproject.org/projects/internship-program)  | mid-Jan             | mid-Feb   | OS-Program  | Certificate  |
-| [Cross Winter of code](https://crosswoc.ieeedtu.in/)                       |   | [Feb - Mar](https://crosswoc.ieeedtu.in/#schedule)  | 25 Jan              | 10 Feb    | OS-Program  | Certificates & swags  |
+| [Cross Winter of code](https://crosswoc.ieeedtu.in/)                       |   | [Feb - Mar](https://crosswoc.ieeedtu.in/#schedule)  | 25 Jan              | 10 Feb    | University OS Program  | Certificates & swags  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,9 +114,9 @@
 | [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes  | [Jun - Aug(full-time) & Jun - Nov(part-time)](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2021ProgramTimeline*)  | 15 Apr             | 10 May | Mentorship Program  | Certificate  |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Jun 1 - Aug 31](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid Apr             | late-May | Mentorship Program  | Certificate  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc)                     | Yes  | [May - Aug](https://erpnext.org/esoc#timeline)  | 3 Apr               | 14 Apr | OS-Program  | Certificate  |
-| [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2021)                   |   |   | 17 Apr              | 05 May | Fellowship  | Certificate  |
+| [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2021)                   |   |   | 17 Apr              | 05 May | University Fellowship  | Certificate  |
 | [Cross Research Experience Program](https://cross.ucsc.edu/programs/osre2021.html)         |   |   | mid Apr             | before May 10 | OS-Program  | Certificate  |
-| [Open Mainframe Project -Linux Foundation](https://www.openmainframeproject.org/projects/mentorship-program)   |   |   | mid Apr             | mid May | OS-Program  | Certificate  |
+| [Open Mainframe Project -Linux Foundation](https://www.openmainframeproject.org/projects/mentorship-program)   | Yes  |   | mid Apr             | mid May | OS-Program  | Certificate  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -130,8 +130,9 @@
 | [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)                     | Yes  | [Aug](https://www.alibabacloud.com/tc/campaign/summerofcode2020)  | 25 May              | 30 Jun | OS-Program  | Certificate  |
 | [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code#flow) | Yes  |   |           | before Jun | OS-Program  | Certificate  |
 | [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn/help/en/)        | Yes  | [Jul - Nov](https://summer.iscas.ac.cn/help/en/timeline/)  | 24 May          | 13 Jun | OS-Program  | Certificate  |
-| [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | OS-Program  |   Swags & Prizes For Winners  |
-| [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | OS-Program  | Certificates & swag rewards  |
+| [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | University OS Program |   Swags & Prizes For Winners  |
+| [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | University OS Program  | Certificates & swag rewards  |
+| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                        |   |   | The challenge opens every "May" then close by "September" |  | Competitions  | Prizes for winners  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,11 +154,10 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![July](https://img.shields.io/badge/-July-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Open Mainframe Project - Linux Foundation  | Yes  |   | mid Jul              | mid Aug |   |   |
+| [Open Mainframe Project-Linux Foundation](https://www.openmainframeproject.org/projects/mentorship-program)  | Yes  |   | mid Jul              | mid Aug | OS-Program  | Certificate  |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Sep 1 - Nov 30](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jul             | late-Aug | Mentorship Program  | Certificate  |
-| Witnet Summer of Code Program [WSoC]       |   |   |           | before 15 Jul |   |   |
-| Mozilla Winter of Security                 |   |   | 29 Jul              | 15 Sep |   |   |
-
+| [Witnet Summer of Code Program-(WSoC)](https://medium.com/witnet/introducing-the-witnet-summer-of-code-program-wsoc-bbe0b086052f)       |   |   |           | before 15 Jul | OS-Program  | Certificate  |
+| [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016#:~:text=the%20application%20form-,Timeline,announcing%20results%20on%20September%2030th.)                 |   |   | 29 Jul              | 15 Sep | OS-Program  | Certificate  |
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
@@ -168,7 +168,8 @@
 | ![August](https://img.shields.io/badge/-August-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [ Dec to Mar](https://www.outreachy.org/apply/project-selection/)  | mid Aug             | late Sept | Internship  | Certificate  |
 | Girlscript winter of code (docs)           |   |   | Early Aug           | late Aug |   | Swag rewards, Certificate  |
-| Bountiful Open Source Summer - BOSS        |   |   |                     | before 15 Aug |   | Prizes For Winners  |
+| Bountiful Open Source Summer - BOSS        |   |   |                     | before 15 Aug | Competitions
+  | Prizes For Winners  |
 |Script Fellowship Program                  |   |   | 1 Aug           | Oct 30 |   | Certificate  |
  
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -182,9 +183,9 @@
 | GNOME Internship Program                   | Yes  |   | 1 Sep               | 1 Oct |   |   |
 | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [Sep - Dec](https://fellowship.mlh.io/programs/open-source)   | Before the deadline    | before 13 Sept | Fellowship  | Certificate, Swags & more |
 | Script Winter of code  (SWoC)              |   |   | 10 Sep              | 10 Nov |   | Prizes, swag rewards, Certificate  |
-| Semester Long Projects (SLoP by DA-IICT)   |   |   | 15 Sep              | late Sept |   | Certificates & swag rewards  |
-| Hacktober Fest by Digital Ocean            |   |   | Sep                 | Oct |   | Swag Rewards  |
-| Google Code-in (GCI)                       |   |   |          | before Oct        |   | Prizes for winners  |
+| [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)   |   | [Sep - Nov](https://slop.dscdaiict.in/)  | 15 Sep              | late Sept | University OS Program  | Certificates & swag rewards  |
+| [Hacktober Fest by Digital Ocean](https://hacktoberfest.digitalocean.com/)            |   | [Oct](https://hacktoberfest.digitalocean.com/)  | Sep                 | Oct | Competitions  | Swag Rewards  |
+| [Google Code-in (GCI)](https://codein.withgoogle.com/archive/)                       |   | [Timeline](https://developers.google.com/open-source/gci/timeline)  |          | before Oct        | Competitions  | Prizes for winners  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -194,9 +195,9 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![October](https://img.shields.io/badge/-October-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| IIIT-Kalyani Winter of code 2.0            |   |   | 1 Oct               | 7 Nov |   | Certificates & swag rewards  |
-| Delta Winter of Code (DWoC)                |   |   | 19 Oct              | 22 Nov |   | Certificates & swag rewards  |
-| NJACK Winter Of Code                       |   |   | 22 Oct              | late Nov |   | Certificates & swag rewards  |
+| [IIIT-Kalyani Winter of code 2.0](https://gdsc-woc.tech/)            |   | [Dec - Feb](https://gdsc-woc.tech/#timeline)  | 1 Oct               | 7 Nov |   | Certificates & swag rewards  |
+| [Delta Winter of Code-(DWoC)](https://dwoc.io/)                |   | [Nov - Jan](https://dwoc.io/)  | 19 Oct              | 22 Nov | University OS Program  | Certificates & swag rewards  |
+| [NJACK Winter Of Code](https://njackwinterofcode.github.io/)                       |   | [Dec - Jan](https://njackwinterofcode.github.io/)  | 22 Oct              | late Nov | University OS Program   | Certificates & swag rewards  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -206,10 +207,11 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![November](https://img.shields.io/badge/-November-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| Winter of code by NSEC                     |   |   | 20 Nov              | 6 Dec |   | Certificates & swag rewards  |
-| Kharagpur Open Source Society (KWoC)       |   |   | 26 Nov              | 6 Dec |   | Certificates & swag rewards  |
-| DevScript Winter of code                   |   |   | 30 Nov              | 25 Dec |   | Certificates & swag rewards  |
-| Foss Asia Codeheat                         |   |   | runs from Nov 10    | 11 May |   | Cash Prizes For Winners  |
+| [Winter of code by NSEC](https://winterofcode.com/)                     |   | [Dec - Jan](https://winterofcode.com/#timeline)  | 20 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
+| [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)       |   | [Dec - Jan](https://kwoc.kossiitkgp.org/#tline)  | 26 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
+| [DevScript Winter of code](https://devscript.org/woc/)                   |   | [Dec - Mar](https://devscript.org/woc/)  | 30 Nov              | 25 Dec | University OS Program  | Certificates & swag rewards  |
+| Foss Asia Codeheat                         |   |   | runs from Nov 10    | 11 May | Competitions
+  | Cash Prizes For Winners  |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -220,8 +222,8 @@
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![December](https://img.shields.io/badge/-December-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | Season of KDE                              |   |   | 15 Dec              | 15 Jan |   |   |
-| JGEC Winter of code                        |   |   | 25 Dec              | 15 Jan |   | Certificates & swag rewards  |
-
+| JGEC Winter of code                        |   |   | 25 Dec              | 15 Jan | University OS Program  | Certificates & swag rewards  |
+| 24 Pull Requests                           |   |   | Send 24 pull requests between December 1st and December 24th |  | Competitions  |   |
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
@@ -246,26 +248,24 @@
 | Kubernetes Shadows Program                 |   |   | Shadows are selected via the Release Team Shadow Application, which usually opens up around the end of a release/beginning of the next release |  |   |   |
 | Millennium Fellowship                      |   |   | Applications for this is open for whole year except Aug to Nov |  |   |   |
 | Microsoft Learn Student Ambassador Program               |   |   | Application form is open throughout the year |  |   |   |
-| OpenCode IIITA                             |   |   | starting in October for student |  |   | Certificates & swag rewards  |
-| OSS World Challenge                        |   |   | The challenge opens every May then close by September |  |   | Prizes for winners  |
-| 24 Pull Requests                           |   |   | Send 24 pull requests between December 1st and December 24th |  |   |   |
+| [OpenCode IIITA](https://opencodeiiita.github.io/)                             |   |   | starting in October for student |  | University OS Program  | Certificates & swag rewards  |
 | Tweag I/O Summer Internship                |   |   | Not found |  |   |   |
 | Segment Open Fellowship                    |   |   | Not found |  |   |   |
 | SOCIS                                      |   |   | Not found |  |   |   |
-| Sanscript Autumn of Open Source            |   |   | Not found |  | Certificates & swag rewards  |   |
+| Sanscript Autumn of Open Source            |   |   | Not found | University OS Program | Certificates & swag rewards  |   |
 | RGSOC                                      |   |   | Not found |  |   |   |
-| Quantopian Open                            |   |   | Not found |  |   | Cash prizes for winners   |
+| [Quantopian Open](https://www.quantopian.com/open)                            |   |   | Not found |  | Competitions  | Cash prizes for winners   |
 | OWASP SOC                                  |   |   | Not found |  |   |   |
 | Open Innovation Project                    |   |   | Not found |  |   |   |
 | Open Source Track Explorer                 |   |   | Not found |  |   |   |
 | MDG Winter of Code                         |   |   | Not found |  |   |   |
 | ICFOSS Fellowship Programme                |   |   | Not found |  |   |   |
-| Halite AI Bot Challenge                    |   |   | Not found |  |   | Swag rewards for winners  |
-| HackinCodes Contributor's Hack             |   |   | Not found |  |   | Prizes, swag rewards, Certificate  |
+| [Halite AI Bot Challenge](https://halite.io/)                    |   |   | Not found |  | Competitions  | Swag rewards for winners  |
+| HackinCodes Contributor's Hack             |   |   | Not found |  | Competitions  | Prizes, swag rewards, Certificate  |
 | Free Software Observation                  |   |   | Not found |  |   |   |
 | Educational Externship Track               |   |   | Not found |  |   |   |
 | (DAWOC) DA-IICT Winter of Code             |   |   | Not found |  |   |   |
-| Data Driven Competitions                   |   |   | Not found |  |   | Cash Prizes For Winners  |
+| [Data Driven Competition](https://www.drivendata.org/competitions/)                   |   |   | Not found |  | Competitions  | Cash Prizes For Winners  |
 | Data Observation National of Earth         |   |   | Not found |  |   |   |
 | Cats winter of code                        |   |   | Not found |  |   |   |
 
