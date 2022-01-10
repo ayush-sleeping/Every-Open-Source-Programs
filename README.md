@@ -44,14 +44,23 @@
 
     <div align="center">
  
-    |      |       |      |       |      |       |      |       |      |       |      |       |
-    |:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|
-    | <a href="#Jan">Jan</a>  | <a href="#Feb">Feb</a>   | <a href="#Mar">Mar</a>  | <a href="#Apr">Apr</a>   | <a href="#May">May</a>  | <a href="#Jun">Jun</a>   | <a href="#Jul">Jul</a>   | <a href="#Aug">Aug</a>  | <a href="#Sep">Sep</a>  | <a href="#Oct">Oct</a>   | <a href="#Nov">Nov</a>  | <a href="#Dec">Dec</a>   |
+    |      |       |      |       |      |       |      |       |      |       |      |       |       |
+    |:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:------|
+    | <a href="#Jan">Jan</a>  | <a href="#Feb">Feb</a>   | <a href="#Mar">Mar</a>  | <a href="#Apr">Apr</a>   | <a href="#May">May</a>  | <a href="#Jun">Jun</a>   | <a href="#Jul">Jul</a>   | <a href="#Aug">Aug</a>  | <a href="#Sep">Sep</a>  | <a href="#Oct">Oct</a>   | <a href="#Nov">Nov</a>  | <a href="#Dec">Dec</a>   | <a href="#Others">Others</a> |
 
    </div>
  
 * [All the OS Programs list (alphabet wise)](#All-the-OS-Programs-list)
-<div align="center"> </div>
+
+    <div align="center">
+ 
+    |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |
+    |:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|
+    | <a href="#A">A</a>  | <a href="#B">B</a>   | <a href="#C">C</a>  | <a href="#D">D</a>   | <a href="#E">E</a>  | <a href="#F">F</a>   | <a href="#G">G</a>   | <a href="#H">H</a>  | <a href="#I">I</a>  | <a href="#J">J</a>   | <a href="#K">K</a>  | <a href="#L">L</a>   | <a href="#M">M</a>  | <a href="#N">N</a>   | <a href="#O">O</a>  | <a href="#P">P</a>   | <a href="#Q">Q</a>  | <a href="#R">R</a>   | <a href="#S">S</a>   | <a href="#T">T</a>  | <a href="#U">U</a>  | <a href="#V">V</a>   | <a href="#W">W</a>  | <a href="#X">X</a>   | <a href="#Y">Y</a>  | <a href="#Z">Z</a>   |
+
+
+   </div>
+   
 
 <br>
 
@@ -267,6 +276,8 @@
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
+<div id="Others"></div>
+
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![Others](https://img.shields.io/badge/-Others-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
@@ -322,18 +333,26 @@
 ![OS](https://img.shields.io/badge/-Open%20Source%20Programs%20%7C%20Internships%20%7C%20Fellowships%20%7C%20Competitions-blueviolet)
 <br>
 
+<div id="A"></div>
+
 * [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)
 * [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc)
 <br>
 
+<div id="B"></div>
+
 * [Bountiful Open Source Summer-BOSS](https://lab.codingblocks.com/boss)
 <br>
+
+<div id="C"></div>
 
 * [(CNCF)-Community Bridge Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)
 * [Cross Research Experience Program](https://cross.ucsc.edu/programs/osre2021.html)
 * [Cross Winter of code](https://crosswoc.ieeedtu.in/) 
 * [Cats winter of code](https://github.com/TheCWoC)
 <br>
+
+<div id="D"></div>
 
 * [Data Driven Competition](https://www.drivendata.org/competitions/)
 * [Delta Winter of Code-(DWoC)](https://dwoc.io/)
@@ -346,9 +365,13 @@
 
 <br>
 
+<div id="E"></div>
+
 * [ERPNext Summer of Code](https://erpnext.org/esoc)
 * Educational Externship Track
 <br>
+
+<div id="F"></div>
 
 * [Foss Asia Codeheat](https://codeheat.org/)
 * [Foss Asia Intership Program](https://fossasia.org/) 
@@ -358,6 +381,8 @@
 * Free Software Observation
 <br>
 
+<div id="G"></div>
+
 * [Google Summer of Code-(GSoC)](https://summerofcode.withgoogle.com/)
 * [Google Summer of Documentation-(Docs)](https://developers.google.com/season-of-docs))
 * [Google Summer of Earth Engine-(SoEE)](https://sites.google.com/view/summerofearthengine/home?authuser=0)
@@ -366,6 +391,8 @@
 * [Girlscript winter of code (docs)](https://gwoc.girlscript.tech/)
 * [Google Code-in (GCI)](https://codein.withgoogle.com/archive/)
 <br>
+
+<div id="H"></div>
 
 * [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply)
 * [Hacktober Fest by Digital Ocean](https://hacktoberfest.digitalocean.com/)
@@ -377,19 +404,27 @@
 
 <br>
 
+<div id="I"></div>
+
 * [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)
 * [IIIT-Kalyani Winter of code 2.0](https://gdsc-woc.tech/)
 * [ICFOSS Fellowship Programme](https://icfoss.in/capacity-building/7)
 <br>
+
+<div id="J"></div>
 
 * [Julia Season of Contribution-(JSOC)](https://julialang.org/jsoc/#:~:text=The%20Julia%20Seasons%20of%20Contributions,to%20the%20open%20source%20ecosystem.)
 * [John Hunter Matplotlib Summer Fellowship](https://numfocus.org/programs/john-hunter-technology-fellowship)
 * [JGEC Winter of code](https://jgec-winter-of-code.github.io/)
 <br>
 
+<div id="K"></div>
+
 * [Kubernetes Shadows Program](https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md)
 * [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)
 <br>
+
+<div id="L"></div>
 
 * [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
 * [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp) 
@@ -397,6 +432,8 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
+
+<div id="M"></div>
 
 * [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/)
 * [Mircosoft:- Reiforcement Learning Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
@@ -406,8 +443,12 @@
 * [MDG Winter of Code](https://woc.sdslabs.co/?fbclid=IwAR2YNnFKh3fWQKEdc1ugVYSIClK1uSclU7qTzSDQen827eGIpTBfxfA6VCk)
 <br>
 
+<div id="N"></div>
+
 * [NJACK Winter Of Code](https://njackwinterofcode.github.io/) 
 <br>
+
+<div id="O"></div>
 
 * [Outreachy](https://www.gnome.org/outreachy/)
 * [Open Mainframe Project (Mentorship Program) (Linux Foundation)](https://www.openmainframeproject.org/projects/internship-program)
@@ -420,6 +461,8 @@
 * Open Innovation Project
 <br>
 
+<div id="P"></div>
+
 * [Processing Foundation Fellowships](https://processingfoundation.org/fellowships/)
 * [PClub Summer Of Code](https://www.pclubuiet.com/)
 
@@ -427,8 +470,12 @@
 
 <br>
 
+<div id="Q"></div>
+
 * [Quantopian Open](https://www.quantopian.com/open)
 <br>
+ 
+ <div id="R"></div>
  
 * [Redox Summer of code](https://www.redox-os.org/rsoc/)
 * [Radare Summer of Code](https://www.radare.org/gsoc/2020/)
@@ -436,6 +483,8 @@
 * [RubyMe Mentorship Program](https://rubyme.org/)
 * [RGSOC](https://railsgirlssummerofcode.org/)
 <br>
+
+<div id="S"></div>
 
 * [Season of KDE](https://season.kde.org/)
 * [Summer of Haskell](https://summer.haskell.org/)  
@@ -449,6 +498,8 @@
 * SOCIS
 <br>
 
+<div id="T"></div>
+
 * [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code#flow)
 * [The X.Org Endless Vacation of Code-(EVoC)](https://www.x.org/wiki/XorgEVoC/)
 * [TOR Summer of Privacy](https://blog.torproject.org/tor-summer-privacy-apply-now/)
@@ -457,12 +508,18 @@
 
 <br>
 
+<div id="V"></div>
+
 * [Vectorised IO](https://vectorized.io/)
 <br>
+
+<div id="W"></div>
 
 * [Winter of code by NSEC](https://winterofcode.com/)
 * [Witnet Summer of Code Program-(WSoC)](https://medium.com/witnet/introducing-the-witnet-summer-of-code-program-wsoc-bbe0b086052f)
 <br>
+
+<div id="X"></div>
 
 * [X org Foundation-(EVOC)](https://www.x.org/wiki/XorgEVoC/)
 <br>
