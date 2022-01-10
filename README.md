@@ -39,8 +39,18 @@
 
 #### Table of content:
 
-* [Schedule of all the OS Programs](#Schedule-of-all-the-OS-Programs)
-* [All the OS Programs list](#All-the-OS-Programs-list)
+* [Schedule (according to their "Registration date begin") ](#Schedule-of-all-the-OS-Programs)
+
+
+    <div align="center">
+ 
+    |      |       |      |       |      |       |      |       |      |       |      |       |
+    |:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|
+    | <a href="#Jan">Jan</a>  | <a href="#Feb">Feb</a>   | <a href="#Mar">Mar</a>  | <a href="#Apr">Apr</a>   | <a href="#May">May</a>  | <a href="#Jun">Jun</a>   | <a href="#Jul">Jul</a>   | <a href="#Aug">Aug</a>  | <a href="#Sep">Sep</a>  | <a href="#Oct">Oct</a>   | <a href="#Nov">Nov</a>  | <a href="#Dec">Dec</a>   |
+
+   </div>
+ 
+* [All the OS Programs list (alphabet wise)](#All-the-OS-Programs-list)
 <div align="center"> </div>
 
 <br>
@@ -63,9 +73,11 @@
 
 </div>
 
-
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 <br>
+
+<div id="Jan"></div>
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -83,6 +95,8 @@
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
+<div id="Feb"></div>
+
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![February](https://img.shields.io/badge/-February-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
@@ -95,6 +109,8 @@
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+<div id="Mar"></div>
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -113,6 +129,8 @@
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
+<div id="Apr"></div>
+
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![April](https://img.shields.io/badge/-April-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
@@ -127,6 +145,8 @@
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+<div id="May"></div>
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -145,6 +165,8 @@
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
+<div id="Jun"></div>
+
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![June](https://img.shields.io/badge/-June-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
@@ -158,6 +180,8 @@
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
+<div id="Jul"></div>
+
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![July](https://img.shields.io/badge/-July-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
@@ -170,6 +194,8 @@
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
+<div id="Aug"></div>
+
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![August](https://img.shields.io/badge/-August-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
@@ -181,6 +207,8 @@
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+<div id="Sep"></div>
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -197,6 +225,8 @@
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
+<div id="Oct"></div>
+
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![October](https://img.shields.io/badge/-October-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
@@ -208,6 +238,8 @@
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+<div id="Nov"></div>
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -221,6 +253,8 @@
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+<div id="Dec"></div>
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
