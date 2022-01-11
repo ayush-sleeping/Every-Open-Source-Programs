@@ -488,7 +488,8 @@
 <div id="S"></div>
 
 * [Season of KDE](https://season.kde.org/)
-* [Summer of Haskell](https://summer.haskell.org/)  
+* [Summer of Haskell](https://summer.haskell.org/)
+* [Summer of Bitcoin](https://www.summerofbitcoin.org/)  
 * [Snowplow](https://snowplowanalytics.com/snowplow-open-source/)
 * [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn/help/en/)
 * [Script Winter of code-(SWoC)](https://swoc.scriptindia.org/#/)
