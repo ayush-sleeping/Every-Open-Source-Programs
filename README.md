@@ -50,6 +50,8 @@
 
    </div>
  
+<br>
+ 
 * [All the OS Programs list (alphabet wise)](#All-the-OS-Programs-list)
 
     <div align="center">
@@ -61,7 +63,9 @@
 
    </div>
    
-   
+
+<br>
+    
 * [Find here All the Best Popular Open Source Programs](#Best-Popular-Open-Source-Programs)
 
 <div align="center">  
@@ -70,6 +74,18 @@
  </strong>
  
    </div>
+
+
+<br>
+ 
+* [University Colleges OS programs](#University-Colleges-OS-programs)
+
+<div align="center">  
+ <strong>
+ If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, You should to apply for these.....
+ </strong>
+ 
+   </div>   
 
 <br>
 
@@ -250,7 +266,7 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![October](https://img.shields.io/badge/-October-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
-| [IIIT-Kalyani Winter of code 2.0](https://gdsc-woc.tech/)            |   | [Dec - Feb](https://gdsc-woc.tech/#timeline)  | 1 Oct               | 7 Nov |   | Certificates & swag rewards  |
+| [IIIT-Kalyani Winter of code 2.0](https://gdsc-woc.tech/)            |   | [Dec - Feb](https://gdsc-woc.tech/#timeline)  | 1 Oct               | 7 Nov | University OS Program   | Certificates & swag rewards  |
 | [Delta Winter of Code-(DWoC)](https://dwoc.io/)                |   | [Nov - Jan](https://dwoc.io/)  | 19 Oct              | 22 Nov | University OS Program  | Certificates & swag rewards  |
 | [NJACK Winter Of Code](https://njackwinterofcode.github.io/)                       |   | [Dec - Jan](https://njackwinterofcode.github.io/)  | 22 Oct              | late Nov | University OS Program   | Certificates & swag rewards  |
 
@@ -580,6 +596,38 @@ These Open Source Programs are so popular, And it can boost your Profile. You sh
 | [Foss Asia Codeheat](https://codeheat.org/)                         |   | [Nov - Jan](https://codeheat.org/#timeline)  | runs from Nov 10    | 11 May | Competition | Cash Prizes For Winners  |
 | [Season of KDE](https://season.kde.org/)                              |   | [Jan - Mar](https://dot.kde.org/2017/11/19/announcing-season-kde-2018)  | 15 Dec              | 15 Jan | OS - Program  |   |
 | [(CNCF)-Community Bridge Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)               | Yes  |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+<br>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+## University Colleges OS programs
+<a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/University--Colleges-Programs-blueviolet?style=flat-square" /></a>
+
+These Open Source programs are organised by some Colleges and Universities student clubs, and here you will get so much very basic and friendly Open Source Project .
+If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, You should to apply for these.....
+
+| Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
+|:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
+| ![University Colleges programs](https://img.shields.io/badge/-Colleges-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
+| [Cross Winter of code](https://crosswoc.ieeedtu.in/)                       |   | [Feb - Mar](https://crosswoc.ieeedtu.in/#schedule)  | Jan 25               | Feb 10     | University OS Program  | Certificates & swags  |
+| [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | University OS Program |   Swags & Prizes For Winners  |
+| [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | University OS Program  | Certificates & swag rewards  |
+| [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)   |   | [Sep - Nov](https://slop.dscdaiict.in/)  | 15 Sep              | late Sept | University OS Program  | Certificates & swag rewards  |
+| [IIIT-Kalyani Winter of code 2.0](https://gdsc-woc.tech/)            |   | [Dec - Feb](https://gdsc-woc.tech/#timeline)  | 1 Oct               | 7 Nov | University OS Program   | Certificates & swag rewards  |
+| [Delta Winter of Code-(DWoC)](https://dwoc.io/)                |   | [Nov - Jan](https://dwoc.io/)  | 19 Oct              | 22 Nov | University OS Program  | Certificates & swag rewards  |
+| [NJACK Winter Of Code](https://njackwinterofcode.github.io/)                       |   | [Dec - Jan](https://njackwinterofcode.github.io/)  | 22 Oct              | late Nov | University OS Program   | Certificates & swag rewards  |
+| [Winter of code by NSEC](https://winterofcode.com/)                     |   | [Dec - Jan](https://winterofcode.com/#timeline)  | 20 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
+| [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)       |   | [Dec - Jan](https://kwoc.kossiitkgp.org/#tline)  | 26 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
+| [DevScript Winter of code](https://devscript.org/woc/)                   |   | [Dec - Mar](https://devscript.org/woc/)  | 30 Nov              | 25 Dec | University OS Program  | Certificates & swag rewards  |
+| [JGEC Winter of code](https://jgec-winter-of-code.github.io/)                        |   | [Dec  -Feb](https://jgec-winter-of-code.github.io/#timeline)  | 7 Dec              | 7 Dec | University OS Program  | Certificates & swag rewards  |
+| [OpenCode IIITA](https://opencodeiiita.github.io/)                             |   |   | starting in October for student |  | University OS Program  | Certificates & swag rewards  |
+| [Sanscript Autumn of Open Source](https://www.commudle.com/communities/sanscript-india/events/autumn-of-open-source)            |   |   | Not found | University OS Program | Certificates & swag rewards  |   |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
