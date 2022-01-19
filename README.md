@@ -254,6 +254,7 @@
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![November](https://img.shields.io/badge/-November-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
+| ⭐ [GitHub Externship](https://externship.github.in/about)                         | Yes  | [Jan](https://externship.github.in/timeline)  | Nov 23    | Dec 19 | Externship | Paid Internship, Solve Real World Problems  |
 | ⭐ [Foss Asia Codeheat](https://codeheat.org/)                         |   | [Nov - Jan](https://codeheat.org/#timeline)  | runs from Nov 10    | 11 May | Competition | Cash Prizes For Winners  |
 | [Winter of code by NSEC](https://winterofcode.com/)                     |   | [Dec - Jan](https://winterofcode.com/#timeline)  | 20 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
 | [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)       |   | [Dec - Jan](https://kwoc.kossiitkgp.org/#tline)  | 26 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
