@@ -4,17 +4,17 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <div align="center">
- 
-![GitHub stars](https://img.shields.io/github/stars/ayush-sleeping/Every-Open-Source-Programs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ayush-sleeping/Every-Open-Source-Programs?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/ayush-sleeping/Every-Open-Source-Programs?style=social)
-![Repo. Size](https://img.shields.io/github/repo-size/ayush-sleeping/Every-Open-Source-Programs?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/ayush-sleeping/Every-Open-Source-Programs?color=red&style=social)
-![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=social)
+
+<a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/github/stars/ayush-sleeping/Every-Open-Source-Programs?style=social" /></a>              <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/github/forks/ayush-sleeping/Every-Open-Source-Programs?style=social" /></a>                <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/github/watchers/ayush-sleeping/Every-Open-Source-Programs?style=social" /></a>                     <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/github/repo-size/ayush-sleeping/Every-Open-Source-Programs?style=social" /></a>                    <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/github/last-commit/ayush-sleeping/Every-Open-Source-Programs?color=red&style=social" /></a>                               <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=social" /></a>                                            
+
 
  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-Programs-blueviolet?style=flat-square" /></a>      <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-Internships-blueviolet?style=flat-square" /></a> 
  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-Competitions-blueviolet?style=flat-square" /></a>  <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/Open--Source-Fellowship-blueviolet?style=flat-square" /></a>  
+
+ 
 </div>
+
+
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -30,11 +30,11 @@
 
 <div align="center">
  
-**Aim of this repository is , &nbsp; You never miss the deadline.** <br>
+<strong>Aim of this repository is , &nbsp; You never miss the deadline.</strong> <br>
 
 </div>
 
- #
+<h1></h1>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 #### Table of content:
