@@ -88,15 +88,57 @@
 <br>
  
 * [All the OS Programs list (alphabet wise)](#All-the-OS-Programs-list)
-
-    <div align="center">
+   
+<div align="center">
+ <table> <thead> <tr> 
+  
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  
+  </tr> </thead> <tbody>
+  
+ <tr> 
+  
+  <td align="left"><a href="#A">A</a></td>
+  <td align="left"><a href="#B">B</a></td>
+  <td align="left"><a href="#C">C</a></td>
+  <td align="left"><a href="#D">D</a></td>
+  <td align="left"><a href="#E">E</a></td>
+  <td align="left"><a href="#F">F</a></td>
+  <td align="left"><a href="#G">G</a></td>
+  <td align="left"><a href="#H">H</a></td>
+  <td align="left"><a href="#I">I</a></td>
+  <td align="left"><a href="#J">J</a></td>
+  <td align="left"><a href="#K">K</a></td>
+  <td align="left"><a href="#L">L</a></td>
+  <td align="left"><a href="#M">M</a></td>
+  <td align="left"><a href="#N">N</a></td>
+  <td align="left"><a href="#O">O</a></td>
+  <td align="left"><a href="#P">P</a></td>
+  <td align="left"><a href="#Q">Q</a></td>
+  <td align="left"><a href="#R">R</a></td>
+  <td align="left"><a href="#S">S</a></td>
+  <td align="left"><a href="#U">U</a></td>
+  <td align="left"><a href="#V">V</a></td>
+  <td align="left"><a href="#W">W</a></td>
+  <td align="left"><a href="#X">X</a></td>
+  <td align="left"><a href="#Y">Y</a></td>
+  <td align="left"><a href="#Z">Z</a></td>
  
-    |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |      |       |
-    |:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|
-    | <a href="#A">A</a>  | <a href="#B">B</a>   | <a href="#C">C</a>  | <a href="#D">D</a>   | <a href="#E">E</a>  | <a href="#F">F</a>   | <a href="#G">G</a>   | <a href="#H">H</a>  | <a href="#I">I</a>  | <a href="#J">J</a>   | <a href="#K">K</a>  | <a href="#L">L</a>   | <a href="#M">M</a>  | <a href="#N">N</a>   | <a href="#O">O</a>  | <a href="#P">P</a>   | <a href="#Q">Q</a>  | <a href="#R">R</a>   | <a href="#S">S</a>   | <a href="#T">T</a>  | <a href="#U">U</a>  | <a href="#V">V</a>   | <a href="#W">W</a>  | <a href="#X">X</a>   | <a href="#Y">Y</a>  | <a href="#Z">Z</a>   |
-
-
-   </div>
+ </tr> </tbody>
+  
+ </table> </div>   
    
 
 <br>
