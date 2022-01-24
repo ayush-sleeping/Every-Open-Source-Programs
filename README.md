@@ -716,9 +716,9 @@ If you are beginner and you don't know anything about Open Source and you want s
 <br>
 
 <div align="center">
-
- <h3 align="center">Show some ❤️ by starring this awesome  repository on <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs">GitHub</a> ! </h1>
-
+ 
+ <h3 align="center">Show some ❤️ by starring this awesome  repository on <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs">GitHub</a> ! </h3>
+ 
 </div>
 
 <div id="Bottom"></div>
