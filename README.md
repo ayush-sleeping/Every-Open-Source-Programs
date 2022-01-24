@@ -44,15 +44,46 @@
 #### Table of content:
 
 * [Schedule (according to their "Registration date begin") ](#Schedule-of-all-the-OS-Programs)
-
-
-    <div align="center">
- 
-    |      |       |      |       |      |       |      |       |      |       |      |       |       |
-    |:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:-----|:------|:------|
-    | <a href="#Jan">Jan</a>  | <a href="#Feb">Feb</a>   | <a href="#Mar">Mar</a>  | <a href="#Apr">Apr</a>   | <a href="#May">May</a>  | <a href="#Jun">Jun</a>   | <a href="#Jul">Jul</a>   | <a href="#Aug">Aug</a>  | <a href="#Sep">Sep</a>  | <a href="#Oct">Oct</a>   | <a href="#Nov">Nov</a>  | <a href="#Dec">Dec</a>   | <a href="#Others">Others</a> |
-
-   </div>
+   
+   
+<div align="center">
+ <table> <thead> <tr> 
+  
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  <th align="left"></th>
+  
+  </tr> </thead> <tbody>
+  
+ <tr> 
+  
+  <td align="left"><a href="#Jan">Jan</a></td>
+  <td align="left"><a href="#Feb">Feb</a></td>
+  <td align="left"><a href="#Mar">Mar</a></td>
+  <td align="left"><a href="#Apr">Apr</a></td>
+  <td align="left"><a href="#May">May</a></td>
+  <td align="left"><a href="#Jun">Jun</a></td>
+  <td align="left"><a href="#Jul">Jul</a></td>
+  <td align="left"><a href="#Aug">Aug</a></td>
+  <td align="left"><a href="#Sep">Sep</a></td>
+  <td align="left"><a href="#Oct">Oct</a></td>
+  <td align="left"><a href="#Nov">Nov</a></td>
+  <td align="left"><a href="#Dec">Dec</a></td>
+  <td align="left"><a href="#Others">Others</a>
+   
+  </td> </tr> </tbody>
+  
+ </table> </div>
  
 <br>
  
