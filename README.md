@@ -302,6 +302,7 @@
 | ⭐ [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Sep 1 - Nov 30](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jul             | late-Aug | Mentorship Program  | Certificate  |
 | [Witnet Summer of Code Program-(WSoC)](https://medium.com/witnet/introducing-the-witnet-summer-of-code-program-wsoc-bbe0b086052f)       |   |   |           | before 15 Jul | OS-Program  | Certificate  |
 | [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016#:~:text=the%20application%20form-,Timeline,announcing%20results%20on%20September%2030th.)                 |   |   | 29 Jul              | 15 Sep | OS-Program  | Certificate  |
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
@@ -376,6 +377,7 @@
 | ⭐ [Season of KDE](https://season.kde.org/)                              |   | [Jan - Mar](https://dot.kde.org/2017/11/19/announcing-season-kde-2018)  | 15 Dec              | 15 Jan | OS - Program  |   |
 | [JGEC Winter of code](https://jgec-winter-of-code.github.io/)                        |   | [Dec  -Feb](https://jgec-winter-of-code.github.io/#timeline)  | 7 Dec              | 7 Dec | University OS Program  | Certificates & swag rewards  |
 | [24 Pull Requests](https://24pullrequests.com/)                           |   | [Dec](https://24pullrequests.com/)  | Send 24 pull requests between December 1st and December 24th |  | Competitions  |   |
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
