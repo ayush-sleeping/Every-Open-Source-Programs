@@ -43,7 +43,8 @@
 
 #### Table of content:
 
-* [Schedule (according to their "Registration date begin") ](#Schedule-of-all-the-OS-Programs)
+
+* <a href="#Schedule">Schedule (according to their "Registration date begin</a>
    
    
 <div align="center">
@@ -87,7 +88,7 @@
  
 <br>
  
-* [All the OS Programs list (alphabet wise)](#All-the-OS-Programs-list)
+* <a href="#alphabet wise">All the OS Programs list (alphabet wise)</a>
    
 <div align="center">
  <table> <thead> <tr> 
@@ -143,7 +144,7 @@
 
 <br>
     
-* [Find here All the Best Popular Open Source Programs](#Best-Popular-Open-Source-Programs)
+* <a href="#Popular">Find here all the Best Popular Open Source programs</a>
 
 <div align="center">  
  <strong>
@@ -155,7 +156,7 @@
 
 <br>
  
-* [University Colleges OS programs](#University-Colleges-OS-programs)
+* <a href="#University">University & Colleges OS programs</a>
 
 <div align="center">  
  <strong>
@@ -172,6 +173,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+<div id="Schedule"></div>
 
 ## Schedule of all the OS Programs
 
@@ -189,7 +191,7 @@
 
 <br>
 
-<div id="Jan"></div>
+<div id="Jan"></div> 
 
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
@@ -435,6 +437,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+<div id="alphabet wise"></div>
 
 ## All the OS Programs list
 ![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
@@ -644,6 +647,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+<div id="Popular"></div>
 
 ## Best Popular Open Source Programs
 
@@ -685,6 +689,7 @@ These Open Source Programs are so popular, And it can boost your Profile. You sh
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+<div id="University"></div>
 
 ## University Colleges OS programs
 <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/University--Colleges-Programs-blueviolet?style=flat-square" /></a>
