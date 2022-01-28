@@ -377,7 +377,7 @@
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![December](https://img.shields.io/badge/-December-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | ⭐ [Season of KDE](https://season.kde.org/)                              |   | [Jan - Mar](https://dot.kde.org/2017/11/19/announcing-season-kde-2018)  | 15 Dec              | 15 Jan | OS - Program  |   |
-| [JGEC Winter of code](https://jgec-winter-of-code.github.io/)                        |   | [Dec  -Feb](https://jgec-winter-of-code.github.io/#timeline)  | 7 Dec              | 7 Dec | University OS Program  | Certificates & swag rewards  |
+| [JGEC Winter of code](https://jwoc.tech/)                        |   | [Feb - Mar](https://jwoc.tech/)  | Jan 16              | Jan 30 | University OS Program  | Certificates & swag rewards  |
 | [24 Pull Requests](https://24pullrequests.com/)                           |   | [Dec](https://24pullrequests.com/)  | Send 24 pull requests between December 1st and December 24th |  | Competitions  |   |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -527,7 +527,7 @@
 
 * [Julia Season of Contribution-(JSOC)](https://julialang.org/jsoc/#:~:text=The%20Julia%20Seasons%20of%20Contributions,to%20the%20open%20source%20ecosystem.)
 * [John Hunter Matplotlib Summer Fellowship](https://numfocus.org/programs/john-hunter-technology-fellowship)
-* [JGEC Winter of code](https://jgec-winter-of-code.github.io/)
+* [JGEC Winter of code](https://jwoc.tech/)
 <br>
 
 <div id="K"></div>
@@ -710,7 +710,7 @@ If you are beginner and you don't know anything about Open Source and you want s
 | [Winter of code by NSEC](https://winterofcode.com/)                     |   | [Dec - Jan](https://winterofcode.com/#timeline)  | 20 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
 | [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)       |   | [Dec - Jan](https://kwoc.kossiitkgp.org/#tline)  | 26 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
 | [DevScript Winter of code](https://devscript.org/woc/)                   |   | [Dec - Mar](https://devscript.org/woc/)  | 30 Nov              | 25 Dec | University OS Program  | Certificates & swag rewards  |
-| [JGEC Winter of code](https://jgec-winter-of-code.github.io/)                        |   | [Dec  -Feb](https://jgec-winter-of-code.github.io/#timeline)  | 7 Dec              | 7 Dec | University OS Program  | Certificates & swag rewards  |
+| [JGEC Winter of code](https://jwoc.tech/)                        |   | [Feb - Mar](https://jwoc.tech/)  | Jan 16              | Jan 30 | University OS Program  | Certificates & swag rewards  |
 | [OpenCode IIITA](https://opencodeiiita.github.io/)                             |   |   | starting in October for student |  | University OS Program  | Certificates & swag rewards  |
 | [Sanscript Autumn of Open Source](https://www.commudle.com/communities/sanscript-india/events/autumn-of-open-source)            |   |   | Not found | University OS Program | Certificates & swag rewards  |   |
 
