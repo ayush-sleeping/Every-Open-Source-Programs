@@ -167,7 +167,7 @@
 
 <br>
 
-<p align="right">(<a href="#Bottom">Bottom</a>)</p>
+<p align="right"><a href="#Bottom"><img src="https://img.shields.io/badge/-Bottom-blueviolet?style=for-the-badge" /></a></p>
 
 ![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
@@ -206,7 +206,7 @@
 | [Codeflow - OpenForce](https://www.openforce.tech/)                           |   | Mar  | Jan 15  | Feb 28 | OS-Program  | Certificate & Special goodies/swags/cash prizes  |
 | [Cross Winter of code](https://crosswoc.ieeedtu.in/)                       |   | [Feb - Mar](https://crosswoc.ieeedtu.in/#schedule)  | Jan 25               | Feb 10     | University OS Program  | Certificates & swags  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -221,7 +221,7 @@
 | [DataONE Summer Internship Programme](https://old.dataone.org/internships)        | Yes  | [May - Jul](https://old.dataone.org/internships)  | 22 Feb              | 25 Mar | Internship  | Certificate  |
 | [GirlScript Summer of code-(GSSoC)](https://gssoc.girlscript.tech/)         |   | [Mar - May](https://gssoc.girlscript.tech/schedule.html)  | Feb                 | Mar | OS-Program  | Prizes, swag rewards and internship opportunities for winners  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -239,7 +239,7 @@
 | [TOR Summer of Privacy](https://blog.torproject.org/tor-summer-privacy-apply-now/)                      | Yes  |   | Early Mar             | late Mar | OS-Program  | Certificate  |
 | [X org Foundation-(EVOC)](https://www.x.org/wiki/XorgEVoC/)                           |   |   | 9 Mar  | 13 Apr | OS-Program  | Certificate  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -256,7 +256,7 @@
 | [Cross Research Experience Program](https://cross.ucsc.edu/programs/osre2021.html)         |   |   | mid Apr             | before May 10 | OS-Program  | Certificate  |
 | [Open Mainframe Project -Linux Foundation](https://www.openmainframeproject.org/projects/mentorship-program)   | Yes  |   | mid Apr             | mid May | OS-Program  | Certificate  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -275,7 +275,7 @@
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                        |   |   | The challenge opens every "May" then close by "September" |  | Competitions  | Prizes for winners  |
 | [Bountiful Open Source Summer-BOSS](https://lab.codingblocks.com/boss)        |   | [May - Aug](https://lab.codingblocks.com/boss#rules-and-eligibility)  |                     | before 15 Aug | Competitions| Prizes For Winners & top performers  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -290,7 +290,7 @@
 | [PClub Summer Of Code](https://www.pclubuiet.com/) |   |   | Early Jun           | late Jun | OS-Program  |   |
 | [Script Fellowship Program](https://sfp.scriptindia.org/)                  |   | [Aug - Nov](https://sfp.scriptindia.org/)  | 1 Jun           | 25 Jul | Fellowship | Certificate  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -305,7 +305,6 @@
 | [Witnet Summer of Code Program-(WSoC)](https://medium.com/witnet/introducing-the-witnet-summer-of-code-program-wsoc-bbe0b086052f)       |   |   |           | before 15 Jul | OS-Program  | Certificate  |
 | [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016#:~:text=the%20application%20form-,Timeline,announcing%20results%20on%20September%2030th.)                 |   |   | 29 Jul              | 15 Sep | OS-Program  | Certificate  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -319,7 +318,7 @@
 | [Girlscript winter of code (docs)](https://gwoc.girlscript.tech/)           |   | [Sep - Nov](https://gwoc.girlscript.tech/)  | Early Aug           | late Aug | OS - Program  | Swag rewards for top performer, Certificate  |
 
  
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -336,7 +335,7 @@
 | [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)   |   | [Sep - Nov](https://slop.dscdaiict.in/)  | 15 Sep              | late Sept | University OS Program  | Certificates & swag rewards  |
 | [Google Code-in (GCI)](https://codein.withgoogle.com/archive/)                       |   | [Timeline](https://developers.google.com/open-source/gci/timeline)  |          | before Oct        | Competitions  | Prizes for winners  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -350,7 +349,7 @@
 | [Delta Winter of Code-(DWoC)](https://dwoc.io/)                |   | [Nov - Jan](https://dwoc.io/)  | 19 Oct              | 22 Nov | University OS Program  | Certificates & swag rewards  |
 | [NJACK Winter Of Code](https://njackwinterofcode.github.io/)                       |   | [Dec - Jan](https://njackwinterofcode.github.io/)  | 22 Oct              | late Nov | University OS Program   | Certificates & swag rewards  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -366,7 +365,7 @@
 | [Kharagpur Open Source Society-(KWoC)](https://kwoc.kossiitkgp.org/)       |   | [Dec - Jan](https://kwoc.kossiitkgp.org/#tline)  | 26 Nov              | 6 Dec | University OS Program  | Certificates & swag rewards  |
 | [DevScript Winter of code](https://devscript.org/woc/)                   |   | [Dec - Mar](https://devscript.org/woc/)  | 30 Nov              | 25 Dec | University OS Program  | Certificates & swag rewards  |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -380,7 +379,7 @@
 | [JGEC Winter of code](https://jwoc.tech/)                        |   | [Feb - Mar](https://jwoc.tech/)  | Jan 16              | Jan 30 | University OS Program  | Certificates & swag rewards  |
 | [24 Pull Requests](https://24pullrequests.com/)                           |   | [Dec](https://24pullrequests.com/)  | Send 24 pull requests between December 1st and December 24th |  | Competitions  |   |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -427,7 +426,7 @@
 | Open Source Track Explorer                 |   |   | Not found |  |   |   |
 | Free Software Observation                  |   |   | Not found |  |   |   |
  
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 
 
@@ -472,7 +471,7 @@
 * [(DAWOC)-DA-IICT Winter of Code](https://dawoc.herokuapp.com/)
 * Data Observation National of Earth 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 
@@ -512,7 +511,7 @@
 * [Halite AI Bot Challenge](https://halite.io/)
 * [HackinCodes Contributor Hack](https://hakincodes.live/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 
@@ -541,7 +540,7 @@
 * [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
 * [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp) 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <br>
 
@@ -578,7 +577,7 @@
 * [Processing Foundation Fellowships](https://processingfoundation.org/fellowships/)
 * [PClub Summer Of Code](https://www.pclubuiet.com/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 
@@ -617,7 +616,7 @@
 * [The X.Org Endless Vacation of Code-(EVoC)](https://www.x.org/wiki/XorgEVoC/)
 * [TOR Summer of Privacy](https://blog.torproject.org/tor-summer-privacy-apply-now/)
 * [Tweag I/O Summer Internship](https://www.tweag.io/blog/2019-03-11-internships/)
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <br>
 
@@ -639,7 +638,7 @@
 
 * [24 Pull Requests](https://24pullrequests.com/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 
@@ -664,7 +663,6 @@ These Open Source Programs are so popular, And it can boost your Profile. You sh
 | [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [May - Aug](https://www.outreachy.org/apply/project-selection/)  | late Jan            | late Feb | Internship  | Certificate  |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Yes (3000 USD) | [Jan - Aug](https://www.summerofbitcoin.org/how-it-works) | January 1 | March 15 | Summer Internship Program | Internship, Job opportunity (if performed exceptionally well) |
 | [Google Summer of Documentation-(Docs)](https://developers.google.com/season-of-docs)     | Yes  | [Apr - Nov](https://developers.google.com/season-of-docs/docs/timeline)  | 9 Feb               | 26 Mar | OS-Program  | Certificate  |
-| [GirlScript Summer of code-(GSSoC)](https://gssoc.girlscript.tech/)         |   | [Mar - May](https://gssoc.girlscript.tech/schedule.html)  | Feb                 | Mar | OS-Program  | Prizes, swag rewards and internship opportunities for winners  |
 | [Google Summer of Code-(GSoC)](https://summerofcode.withgoogle.com/)             | Yes  | [Mar - Sept](https://summerofcode.withgoogle.com/how-it-works#timeline)  | early Mar               | mid Apr | OS-Program  | Certificate |
 | [RAILS GIRLS SUMMER OF CODE-(RGSOC)](https://railsgirlssummerofcode.org/)                                      | Yes  | [Jun - Sep](https://railsgirlssummerofcode.org/)  | 02 Mar  | 30 Mar | OS-Program  | Certificate  |
 | [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes  | [Jun - Aug(full-time) & Jun - Nov(part-time)](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2021ProgramTimeline*)  | 15 Apr             | 10 May | Mentorship Program  | Certificate  |
@@ -681,7 +679,7 @@ These Open Source Programs are so popular, And it can boost your Profile. You sh
 | [Season of KDE](https://season.kde.org/)                              |   | [Jan - Mar](https://dot.kde.org/2017/11/19/announcing-season-kde-2018)  | 15 Dec              | 15 Jan | OS - Program  |   |
 | [(CNCF)-Community Bridge Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)               | Yes  |   | Summer - (CNCF) participates in LFX Mentorship (ex-CommunityBridge), GSOC , GSOD , CROSS Research Experience Program  |  |   |   |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 
@@ -714,7 +712,7 @@ If you are beginner and you don't know anything about Open Source and you want s
 | [OpenCode IIITA](https://opencodeiiita.github.io/)                             |   |   | starting in October for student |  | University OS Program  | Certificates & swag rewards  |
 | [Sanscript Autumn of Open Source](https://www.commudle.com/communities/sanscript-india/events/autumn-of-open-source)            |   |   | Not found | University OS Program | Certificates & swag rewards  |   |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
 <br>
 
