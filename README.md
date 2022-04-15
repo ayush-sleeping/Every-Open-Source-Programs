@@ -116,7 +116,7 @@
 <div align="center">
  <table> <tbody>  <tr> 
   
-   <td align="left">These Open Source Programs are so popular, And it can boost your Profile. You should not miss to apply for these.... </a> </td> 
+   <td align="left">These Open Source Programs are so popular, And it can boost your Profile. You should not miss to apply for these.... </td> 
  
  </tr> </tbody> </table> 
  </div>
@@ -128,7 +128,7 @@
 <div align="center">
  <table> <tbody>  <tr> 
   
-   <td align="left">If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, Then you should to apply for these.....  </a> </td> 
+   <td align="left">If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, Then you should to apply for these..... </td> 
  
  </tr> </tbody> </table> 
  </div>
