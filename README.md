@@ -48,23 +48,7 @@
    
    
 <div align="center">
- <table> <thead> <tr> 
-  
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  
-  </tr> </thead> <tbody>
+ <table> <tbody>
   
  <tr> 
   
@@ -91,25 +75,7 @@
 * <a href="#alphabet wise">All the OS Programs list (alphabet wise)</a>
    
 <div align="center">
- <table> <thead> <tr> 
-  
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  <th align="left"></th>
-  
-  </tr> </thead> <tbody>
-  
- <tr> 
+ <table> <tbody> <tr> 
   
   <td align="left"><a href="#A">A</a></td>
   <td align="left"><a href="#B">B</a></td>
@@ -137,31 +103,35 @@
   <td align="left"><a href="#Y">Y</a></td>
   <td align="left"><a href="#Z">Z</a></td>
  
- </tr> </tbody>
-  
- </table> </div>   
+ </tr> </tbody> </table>
+</div>   
+ 
+ 
    
 
 <br>
     
 * <a href="#Popular">Find here all the Best Popular Open Source programs</a>
 
-<div align="center">  
-
-| These Open Source Programs are so popular, And it can boost your Profile. You should not miss to apply for these....  |
-|:----|
-
-   </div>
-
+<div align="center">
+ <table> <tbody>  <tr> 
+  
+   <td align="left">These Open Source Programs are so popular, And it can boost your Profile. You should not miss to apply for these.... </a> </td> 
+ 
+ </tr> </tbody> </table> 
+ </div>
 
 <br>
  
 * <a href="#University">University , Colleges & Community - OS programs</a>
 
-| If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, Then you should to apply for these.....  |
-|:----|
-
-
+<div align="center">
+ <table> <tbody>  <tr> 
+  
+   <td align="left">If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, Then you should to apply for these.....  </a> </td> 
+ 
+ </tr> </tbody> </table> 
+ </div>
 
 <br>
 
