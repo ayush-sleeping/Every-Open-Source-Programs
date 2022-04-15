@@ -156,7 +156,7 @@
 
 <br>
  
-* <a href="#University">University & Colleges OS programs</a>
+* <a href="#University">University , Colleges & Community - OS programs</a>
 
 | If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, Then you should to apply for these.....  |
 |:----|
