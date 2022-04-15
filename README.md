@@ -147,10 +147,10 @@
 * <a href="#Popular">Find here all the Best Popular Open Source programs</a>
 
 <div align="center">  
- <strong>
- These Open Source Programs are so popular, And it can boost your Profile. You should not miss to apply for these....
- </strong>
- 
+
+| These Open Source Programs are so popular, And it can boost your Profile. You should not miss to apply for these....  |
+|:----|
+
    </div>
 
 
@@ -158,12 +158,10 @@
  
 * <a href="#University">University & Colleges OS programs</a>
 
-<div align="center">  
- <strong>
- If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, You should to apply for these.....
- </strong>
- 
-   </div>   
+| If you are beginner and you don't know anything about Open Source and you want some confident before applying for some big OS-Programs, Then you should to apply for these.....  |
+|:----|
+
+
 
 <br>
 
@@ -252,6 +250,7 @@
 | ⭐ [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes  | [Jun - Aug(full-time) & Jun - Nov(part-time)](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2021ProgramTimeline*)  | 15 Apr             | 10 May | Mentorship Program  | Certificate  |
 | ⭐ [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Jun 1 - Aug 31](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid Apr             | late-May | Mentorship Program  | Certificate  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc)                     | Yes  | [May - Aug](https://erpnext.org/esoc#timeline)  | 3 Apr               | 14 Apr | OS-Program  | Certificate  |
+| [AI4Bharat Summer of Code](https://mobile.twitter.com/ai4bharat)                   | Yes  | [May 1 - Jul 31]()  | Apr              | 20 Apr | IIT Madras OS Program  | Internship  |
 | [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2021)                   |   |   | 17 Apr              | 05 May | University Fellowship  | Certificate  |
 | [Cross Research Experience Program](https://cross.ucsc.edu/programs/osre2021.html)         |   |   | mid Apr             | before May 10 | OS-Program  | Certificate  |
 | [Open Mainframe Project -Linux Foundation](https://www.openmainframeproject.org/projects/mentorship-program)   | Yes  |   | mid Apr             | mid May | OS-Program  | Certificate  |
@@ -270,6 +269,7 @@
 | [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)                     | Yes  | [Aug](https://www.alibabacloud.com/tc/campaign/summerofcode2020)  | 25 May              | 30 Jun | OS-Program  | Certificate  |
 | [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code#flow) | Yes  |   |           | before Jun | OS-Program  | Certificate  |
 | [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn/help/en/)        | Yes  | [Jul - Nov](https://summer.iscas.ac.cn/help/en/timeline/)  | 24 May          | 13 Jun | OS-Program  | Certificate  |
+| [LetsGrowMore's Summer Of Code](https://letsgrowmore.in/soc/)                   |   | [May - Jul](https://letsgrowmore.in/soc/)  | 20 May              | 31 May | Community OS Program |   Certificates  |
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | University OS Program |   Swags & Prizes For Winners  |
 | [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | University OS Program  | Certificates & swag rewards  |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                        |   |   | The challenge opens every "May" then close by "September" |  | Competitions  | Prizes for winners  |
@@ -447,6 +447,7 @@
 
 * [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)
 * [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc)
+* [AI4Bharat Summer of Code](https://mobile.twitter.com/ai4bharat)
 <br>
 
 <div id="B"></div>
@@ -538,7 +539,8 @@
 <div id="L"></div>
 
 * [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
-* [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp) 
+* [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)
+* [LetsGrowMore's Summer Of Code](https://letsgrowmore.in/soc/) 
 
 
 
@@ -689,7 +691,7 @@ These Open Source Programs are so popular, And it can boost your Profile. You sh
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <div id="University"></div>
 
-## University Colleges OS programs
+## University , Colleges and Community OS programs
 <a href="https://github.com/ayush-sleeping/Every-Open-Source-Programs"><img src="https://img.shields.io/badge/University--Colleges-Programs-blueviolet?style=flat-square" /></a>
 
 These Open Source programs are organised by some Colleges and Universities student clubs, and here you will get so much very basic and friendly Open Source Project .
@@ -700,6 +702,7 @@ If you are beginner and you don't know anything about Open Source and you want s
 | ![University Colleges programs](https://img.shields.io/badge/-Colleges-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | [Cross Winter of code](https://crosswoc.ieeedtu.in/)                       |   | [Feb - Mar](https://crosswoc.ieeedtu.in/#schedule)  | Jan 25               | Feb 10     | University OS Program  | Certificates & swags  |
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | University OS Program |   Swags & Prizes For Winners  |
+| [LetsGrowMore's Summer Of Code](https://letsgrowmore.in/soc/)                   |   | [May - Jul](https://letsgrowmore.in/soc/)  | 20 May              | 31 May | Community OS Program |   Certificates  |
 | [Hack Club SRM Summer of Code (HCSSoC)](https://github.com/Hack-Club-SRM/HCSSoC)      |   | [Jun - Jul](https://github.com/Hack-Club-SRM/HCSSoC)  | 18 May              | 23 Jun | University OS Program  | Certificates & swag rewards  |
 | [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)   |   | [Sep - Nov](https://slop.dscdaiict.in/)  | 15 Sep              | late Sept | University OS Program  | Certificates & swag rewards  |
 | [IIIT-Kalyani Winter of code 2.0](https://gdsc-woc.tech/)            |   | [Dec - Feb](https://gdsc-woc.tech/#timeline)  | 1 Oct               | 7 Nov | University OS Program   | Certificates & swag rewards  |
