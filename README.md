@@ -44,7 +44,7 @@
 #### Table of content:
 
 
-* <a href="#Schedule">Schedule (according to their "Registration date begin</a>
+* <a href="#Schedule">Schedule [ according to their "Registration date begin ] </a>
    
    
 <div align="center">
