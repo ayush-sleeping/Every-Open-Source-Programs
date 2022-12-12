@@ -166,6 +166,7 @@
 | ![January](https://img.shields.io/badge/-January-%23E12B38?style=for-the-badge) | -------| -------- | -----------      | ---------          | -----| -------|
 | ⭐ [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [Jan - Apr](https://fellowship.mlh.io/programs/open-source)   | Before the deadline | Jan-4th   | Fellowship  | Certificate, Swags & more |
 | ⭐ [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Mar - May](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jan             | late-Feb   | Mentorship Program  |  Certificate  |
+| ⭐ [LFX Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)                                  | Yes  | Spring [Mar - May](https://mentorship.lfx.linuxfoundation.org/#projects_all) | Jan            | Feb | Mentorship Program  | Certificate  |
 | ⭐ [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply)             | Yes  | [Jun - Aug(Full-Time) Jun - Nov(Part-time)](https://wiki.hyperledger.org/display/INTERN#HyperledgerMentorshipProgram-SummerFT(Full-Time)MenteeSchedule)  | Jan-28                | Mar-10       | Mentorship Program   | Certificate  |
 | ⭐ [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [May - Aug](https://www.outreachy.org/apply/project-selection/)  | late Jan            | late Feb | Internship  | Certificate  |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Yes (3000 USD) | [Jan - Aug](https://www.summerofbitcoin.org/how-it-works) | January 1 | March 15 | Summer Internship Program | Internship, Job opportunity (if performed exceptionally well)
@@ -200,6 +201,7 @@
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![March](https://img.shields.io/badge/-March-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | ⭐ [Google Summer of Code-(GSoC)](https://summerofcode.withgoogle.com/)             | Yes  | [Mar - Sept](https://summerofcode.withgoogle.com/how-it-works#timeline)  | early Mar               | mid Apr | OS-Program  | Certificate |
+| [Reinforcement Learning Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/apply/)                                  | Yes  | [May - Aug](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/timeline/) or [Sep - Dec](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/timeline/)  | Mar            | Apr | Open Source Fest  | Certificate  |
 | [Google Summer of Earth Engine-(SoEE)](https://sites.google.com/view/summerofearthengine/home?authuser=0)       | Yes  | [May - July](https://sites.google.com/view/summerofearthengine/timeline)  | 15 Mar              | 15 Apr | OS-Program  | Certificate  |
 | [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)           | Yes  |   | 1 Mar               | end of Apr | OS-Program  | Certificate  |
 | [RAILS GIRLS SUMMER OF CODE-(RGSOC)](https://railsgirlssummerofcode.org/)                                      | Yes  | [Jun - Sep](https://railsgirlssummerofcode.org/)  | 02 Mar  | 30 Mar | OS-Program  | Certificate  |
@@ -236,6 +238,7 @@
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![May](https://img.shields.io/badge/-May-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | ⭐ [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [May - Aug](https://fellowship.mlh.io/programs/open-source)   | Before the deadline  | before 10 May | Fellowship  | Certificate, Swags & more |
+| ⭐ [LFX Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)                                  | Yes  | Summer [Jun - Aug](https://mentorship.lfx.linuxfoundation.org/#projects_all) | May            | May | Mentorship Program  | Certificate  |
 | [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)                     | Yes  | [Aug](https://www.alibabacloud.com/tc/campaign/summerofcode2020)  | 25 May              | 30 Jun | OS-Program  | Certificate  |
 | [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code#flow) | Yes  |   |           | before Jun | OS-Program  | Certificate  |
 | [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn/help/en/)        | Yes  | [Jul - Nov](https://summer.iscas.ac.cn/help/en/timeline/)  | 24 May          | 13 Jun | OS-Program  | Certificate  |
@@ -456,7 +459,7 @@
 
 * [Foss Asia Codeheat](https://codeheat.org/)
 * [Foss Asia Intership Program](https://fossasia.org/) 
-* [Free Software Foundation (FSF) Intership Program](https://www.fsf.org/volunteer/internships) 
+* [(FSF) Free Software Foundation Intership Program](https://www.fsf.org/volunteer/internships) 
 * [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2021)
 * [FOSSEE Semester-long Internship](https://fossee.in/semester-internship/2021)
 * Free Software Observation
@@ -508,6 +511,7 @@
 
 <div id="L"></div>
 
+* [LFX Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)
 * [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
 * [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)
 * [LetsGrowMore's Summer Of Code](https://letsgrowmore.in/soc/) 
@@ -560,6 +564,7 @@
  
  <div id="R"></div>
  
+* [Reinforcement Learning Open Source Fest by Microsoft](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/apply/) 
 * [Redox Summer of code](https://www.redox-os.org/rsoc/)
 * [Radare Summer of Code](https://www.radare.org/gsoc/2020/)
 * [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/)
@@ -630,16 +635,19 @@ These Open Source Programs are so popular, And it can boost your Profile. You sh
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![Best-Popular-OS](https://img.shields.io/badge/-Popular-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
 | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [Jan - Apr](https://fellowship.mlh.io/programs/open-source)   | Before the deadline | Jan-4th   | Fellowship  | Certificate, Swags & more |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Yes (3000 USD) | [Jan - Aug](https://www.summerofbitcoin.org/how-it-works) | January 1 | March 15 | Summer Internship Program | Internship, Job opportunity (if performed exceptionally well) |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Mar - May](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jan             | late-Feb   | Mentorship Program  |  Certificate  |
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply)             | Yes  | [Jun - Aug(Full-Time) Jun - Nov(Part-time)](https://wiki.hyperledger.org/display/INTERN#HyperledgerMentorshipProgram-SummerFT(Full-Time)MenteeSchedule)  | Jan-28                | Mar-10       | Mentorship Program   | Certificate  |
 | [Outreachy](https://www.gnome.org/outreachy/)                                  | Yes  | [May - Aug](https://www.outreachy.org/apply/project-selection/)  | late Jan            | late Feb | Internship  | Certificate  |
-| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Yes (3000 USD) | [Jan - Aug](https://www.summerofbitcoin.org/how-it-works) | January 1 | March 15 | Summer Internship Program | Internship, Job opportunity (if performed exceptionally well) |
+| [Reinforcement Learning Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/apply/)                                  | Yes  | [May - Aug](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/timeline/) or [Sep - Dec](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/timeline/)  | Mar            | Apr | Open Source Fest  | Certificate  |
+| [LFX Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)                                  | Yes  | Spring [Mar - May](https://mentorship.lfx.linuxfoundation.org/#projects_all) | Jan            | Feb | Mentorship Program  | Certificate  |
 | [Google Summer of Documentation-(Docs)](https://developers.google.com/season-of-docs)     | Yes  | [Apr - Nov](https://developers.google.com/season-of-docs/docs/timeline)  | 9 Feb               | 26 Mar | OS-Program  | Certificate  |
 | [Google Summer of Code-(GSoC)](https://summerofcode.withgoogle.com/)             | Yes  | [Mar - Sept](https://summerofcode.withgoogle.com/how-it-works#timeline)  | early Mar               | mid Apr | OS-Program  | Certificate |
 | [RAILS GIRLS SUMMER OF CODE-(RGSOC)](https://railsgirlssummerofcode.org/)                                      | Yes  | [Jun - Sep](https://railsgirlssummerofcode.org/)  | 02 Mar  | 30 Mar | OS-Program  | Certificate  |
 | [(LFN)-Linux Foundation Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes  | [Jun - Aug(full-time) & Jun - Nov(part-time)](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2021ProgramTimeline*)  | 15 Apr             | 10 May | Mentorship Program  | Certificate  |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Jun 1 - Aug 31](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid Apr             | late-May | Mentorship Program  | Certificate  |
 | [MLH Fellowship (Pre-program & Open source)](https://fellowship.mlh.io/) | Yes  | [May - Aug](https://fellowship.mlh.io/programs/open-source)   | Before the deadline  | before 10 May | Fellowship  | Certificate, Swags & more |
+| [LFX Mentorship Program](https://mentorship.lfx.linuxfoundation.org/#projects_all)                                  | Yes  | Summer [Mar - May](https://mentorship.lfx.linuxfoundation.org/#projects_all) | May            | May | Mentorship Program  | Certificate  |
 | [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)                     | Yes  | [Aug](https://www.alibabacloud.com/tc/campaign/summerofcode2020)  | 25 May              | 30 Jun | OS-Program  | Certificate  |
 | [Open Mainframe Project-Linux Foundation](https://www.openmainframeproject.org/projects/mentorship-program)  | Yes  |   | mid Jul              | mid Aug | OS-Program  | Certificate  |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)            | Yes  | [Sep 1 - Nov 30](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | mid-Jul             | late-Aug | Mentorship Program  | Certificate  |
