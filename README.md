@@ -306,7 +306,6 @@
 | [GNOME Internship Program](https://foundation.gnome.org/2018/05/08/announcing-the-gnome-internship-program/)                   | Yes  | [Dec - Mar](https://wiki.gnome.org/Internships#Timeline)  | 1 Sep               | 1 Oct | Internship  |   |
 | [Script Winter of code-(SWoC)](https://swoc.scriptindia.org/#/)              |   | [Nov - Mar](https://swoc.scriptindia.org/#/)  | 10 Sep              | 10 Nov | OS - Program  | Prizes, swag rewards, Certificate  |
 | [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)   |   | [Sep - Nov](https://slop.dscdaiict.in/)  | 15 Sep              | late Sept | University OS Program  | Certificates & swag rewards  |
-| [Google Code-in (GCI)](https://codein.withgoogle.com/archive/)                       |   | [Timeline](https://developers.google.com/open-source/gci/timeline)  |          | before Oct        | Competitions  | Prizes for winners  |
 
 
 
