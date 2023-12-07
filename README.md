@@ -420,6 +420,7 @@
 * [Alibaba Summer of code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)
 * [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc)
 * [AI4Bharat Summer of Code](https://mobile.twitter.com/ai4bharat)
+* [Apertre - A 15-day-long Open Source Event](https://os.apertre.tech/)
 <br>
 
 <div id="B"></div>
@@ -677,6 +678,7 @@ If you are beginner and you don't know anything about Open Source and you want s
 | Name | Stipend | Timeline | Registration Date Begin (Approximately) | Deadline (Approx.) | Type | Awards |
 |:-----|:--------|:---------|:----------------------------------------|:-------------------|:-----|:-------|
 | ![University Colleges programs](https://img.shields.io/badge/-Colleges-%23E12B38?style=for-the-badge) | --------  | -------- | ---------------- | -------- | -----  | --------  |
+| [Apertre-A 15-day-long Open Source Event by Resourcio Community & GDSC AOT](https://os.apertre.tech/) | Internship Opportunity (Leaderboard Toppers) | [3rd JAN,2024 to 17th JAN,2024](https://os.apertre.tech/) | Ongoing | 26 December,2023 | College & Community OS Program | Prizepool of 10k + swags + certificates |
 | [Cross Winter of code](https://crosswoc.ieeedtu.in/)                       |   | [Feb - Mar](https://crosswoc.ieeedtu.in/#schedule)  | Jan 25               | Feb 10     | University OS Program  | Certificates & swags  |
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html)                   |   | [May - Jul](https://oss2019.github.io/SoI.html)  | 1 May              | 5 May | University OS Program |   Swags & Prizes For Winners  |
 | [LetsGrowMore's Summer Of Code](https://letsgrowmore.in/soc/)                   |   | [May - Jul](https://letsgrowmore.in/soc/)  | 20 May              | 31 May | Community OS Program |   Certificates  |
